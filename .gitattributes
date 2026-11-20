@@ -1,0 +1,17 @@
+* text=auto
+*.cs text eol=lf
+*.py text eol=lf
+*.shader text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.unity text eol=lf
+*.prefab text eol=lf
+*.mat text eol=lf
+*.meta text eol=lf
+*.fbx -text
+*.blend -text
+*.png -text
+*.jpg -text
+*.jpeg -text
+*.zip -text
+*.glb -text

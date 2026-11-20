@@ -1,0 +1,3 @@
+from pathlib import Path
+p=Path('Assets/Editor/CoastAuthored.cs');s=p.read_text(encoding='utf-8-sig');s=s.replace('root.transform.localScale=new Vector3(1,1,-1)','root.transform.localScale=new Vector3(-1,1,-1)');s=s.replace('var indices=copy.triangles;for(int k=0;k<indices.Length;k+=3){int t=indices[k];indices[k]=indices[k+2];indices[k+2]=t;}copy.triangles=indices;','for(int sub=0;sub<source.subMeshCount;sub++){var indices=source.GetTriangles(sub);for(int k=0;k<indices.Length;k+=3){int t=indices[k];indices[k]=indices[k+2];indices[k+2]=t;}copy.SetTriangles(indices,sub);}')
+s=s.replace('"Tree_1_A_Color1.fbx":"Tree_1_C_Color1.fbx"','"Tree_1_C_Color1.fbx":"Tree_1_B_Color1.fbx"');p.write_text(s,encoding='utf-8')

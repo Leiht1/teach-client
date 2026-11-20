@@ -1,0 +1,32 @@
+sample,x,y,z,obstacle,obstacle_height
+23,4.166016,1.345615,-7.422852,Trail first support,1.73162
+36,12.125,3.08125,-0.875,Lower meadow,3.529421
+60,-1.5625,4.696875,3.3125,Split middle face,5.854428
+61,-2.477539,4.805615,3.43457,Split middle face,6.991652
+62,-3.367188,4.917578,3.585938,Split middle face,7.00693
+63,-4.213867,5.032471,3.772461,Split middle face,6.294884
+110,7.601563,9.972655,16.92969,Upper meadow,12.15166
+111,7.836914,10.11318,17.47949,Upper meadow,12.3
+112,8,10.25,18,Upper meadow,12.3
+113,8.086914,10.38296,18.50684,Upper meadow,12.3
+114,8.101563,10.51367,19.02344,Upper meadow,12.3
+115,8.049805,10.64302,19.54395,Upper meadow,12.3
+116,7.9375,10.77188,20.0625,Upper meadow,12.3
+117,7.770508,10.90112,20.57324,Upper meadow,12.3
+118,7.554688,11.03164,21.07031,Upper meadow,12.3
+119,7.295898,11.16431,21.54785,Upper meadow,12.3
+120,7,11.3,22,Upper meadow,12.3
+121,6.643555,11.44655,22.44336,Upper meadow,12.3
+122,6.210938,11.60648,22.89063,Upper meadow,12.3
+123,5.719727,11.77271,23.33008,Upper meadow,12.3
+124,5.1875,11.93813,23.75,Upper meadow,12.3
+127,3.520508,12.35868,24.77539,Lighthouse dressed stone podium,12.98896
+128,3,12.45,25,Lighthouse dressed stone podium,13
+129,2.472656,12.50839,25.14355,Keeper cottage plaster,15.5
+130,1.90625,12.53898,25.21094,Lighthouse dressed stone podium,13
+131,1.324219,12.54806,25.21973,Lighthouse dressed stone podium,13
+132,0.75,12.54187,25.1875,Lighthouse dressed stone podium,13
+133,0.2070313,12.52671,25.13184,Lighthouse dressed stone podium,13
+134,-0.28125,12.50883,25.07031,Lighthouse • tapered plaster,14.81087
+135,-0.6914063,12.4945,25.02051,Lighthouse • red base course,14.8
+136,-1,12.49,25,Lighthouse • red base course,14.8

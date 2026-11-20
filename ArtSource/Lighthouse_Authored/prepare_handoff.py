@@ -1,0 +1,4 @@
+from pathlib import Path
+p=Path('ArtSource/Lighthouse_Authored/build_dcc.py');s=p.read_text(encoding='utf-8-sig').replace("ROOT=r'D:/codex项目/teach'","from pathlib import Path\nROOT=Path(__file__).resolve().parents[2].as_posix()");p.write_text(s,encoding='utf-8')
+p=Path('ArtSource/Lighthouse_Authored/audit_cut.py');s=p.read_text(encoding='utf-8-sig').replace("root='D:/codex项目/teach'","from pathlib import Path\nroot=Path(__file__).resolve().parents[2].as_posix()");p.write_text(s,encoding='utf-8')
+p=Path('Docs/Lighthouse_Authored/ASSETS.md');s=p.read_text(encoding='utf-8-sig');s=s.replace('8 个预先指定位置的簇','16 个预先指定位置的簇');s='\n'.join(line for line in s.splitlines() if not line.startswith('| 灌木 `Bush_1_'));s+='\n\n迁移快照更新：基础灌木已统一改用 Quaternius `Bush_Common_Flowers.fbx`（16 处），另有上述 16 处草花簇；KayKit 球形灌木和 Kenney 棕榈已不用于当前场景。\n';p.write_text(s,encoding='utf-8')

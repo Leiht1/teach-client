@@ -1,0 +1,12 @@
+Sandy mountain footpath bounds Center: (0.06, 6.47, 4.71), Extents: (13.67, 6.10, 21.91) collider True
+normal (0.01, 1.00, -0.01)
+Beach sand foundation bounds Center: (0.00, -0.80, 7.49), Extents: (26.00, 1.10, 27.43) collider True
+normal (0.11, 0.36, -0.93)
+False -13,-16 hits Explorer (-13.00, 2.08, -16.00) normal (0.00, 1.00, 0.00)
+False -13,16 hits Middle meadow (-13.00, 7.50, 16.00) normal (0.00, 1.00, 0.00)
+False 13,-16 hits Sandy mountain footpath (13.00, 0.37, -16.00) normal (0.01, 1.00, -0.01)
+False 13,16 hits Cliff • Upper shoulder (13.00, 11.06, 16.00) normal (0.66, 0.51, -0.54)
+True -13,-16 hits Explorer (-13.00, 2.08, -16.00) normal (0.00, 1.00, 0.00)
+True -13,16 hits Middle meadow (-13.00, 7.50, 16.00) normal (0.00, 1.00, 0.00)
+True 13,-16 hits Sandy mountain footpath (13.00, 0.37, -16.00) normal (0.01, 1.00, -0.01)
+True 13,16 hits Cliff • Upper shoulder (13.00, 11.06, 16.00) normal (0.66, 0.51, -0.54)

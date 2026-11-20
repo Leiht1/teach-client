@@ -1,0 +1,641 @@
+asset	category	renderers	triangles	size_m	missing_materials	untextured_material_slots	humanoid_valid	clips
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/banner_blue.fbx	04 Ruins	1	97	(1.50, 3.20, 0.31)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/banner_brown.fbx	04 Ruins	1	97	(1.50, 3.20, 0.31)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/banner_green.fbx	04 Ruins	1	97	(1.50, 3.20, 0.31)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/banner_patternA_blue.fbx	04 Ruins	1	110	(1.50, 3.20, 0.31)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/banner_patternA_brown.fbx	04 Ruins	1	110	(1.50, 3.20, 0.31)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/banner_patternA_green.fbx	04 Ruins	1	110	(1.50, 3.20, 0.31)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/banner_patternA_red.fbx	04 Ruins	1	110	(1.50, 3.20, 0.31)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/banner_patternA_white.fbx	04 Ruins	1	110	(1.50, 3.20, 0.31)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/banner_patternA_yellow.fbx	04 Ruins	1	110	(1.50, 3.20, 0.31)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/banner_patternB_blue.fbx	04 Ruins	1	97	(1.50, 3.20, 0.31)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/banner_patternB_brown.fbx	04 Ruins	1	97	(1.50, 3.20, 0.31)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/banner_patternB_green.fbx	04 Ruins	1	97	(1.50, 3.20, 0.31)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/banner_patternB_red.fbx	04 Ruins	1	97	(1.50, 3.20, 0.31)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/banner_patternB_white.fbx	04 Ruins	1	97	(1.50, 3.20, 0.31)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/banner_patternB_yellow.fbx	04 Ruins	1	97	(1.50, 3.20, 0.31)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/banner_patternC_blue.fbx	04 Ruins	1	97	(1.50, 3.20, 0.31)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/banner_patternC_brown.fbx	04 Ruins	1	97	(1.50, 3.20, 0.31)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/banner_patternC_green.fbx	04 Ruins	1	97	(1.50, 3.20, 0.31)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/banner_patternC_red.fbx	04 Ruins	1	97	(1.50, 3.20, 0.31)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/banner_patternC_white.fbx	04 Ruins	1	97	(1.50, 3.20, 0.31)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/banner_patternC_yellow.fbx	04 Ruins	1	97	(1.50, 3.20, 0.31)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/banner_red.fbx	04 Ruins	1	97	(1.50, 3.20, 0.31)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/banner_shield_blue.fbx	04 Ruins	1	639	(2.23, 3.20, 0.37)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/banner_shield_brown.fbx	04 Ruins	1	639	(2.23, 3.20, 0.37)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/banner_shield_green.fbx	04 Ruins	1	639	(2.23, 3.20, 0.37)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/banner_shield_red.fbx	04 Ruins	1	639	(2.23, 3.20, 0.37)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/banner_shield_white.fbx	04 Ruins	1	639	(2.23, 3.20, 0.37)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/banner_shield_yellow.fbx	04 Ruins	1	639	(2.23, 3.20, 0.37)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/banner_thin_blue.fbx	04 Ruins	1	83	(1.10, 3.17, 0.36)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/banner_thin_brown.fbx	04 Ruins	1	83	(1.10, 3.17, 0.36)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/banner_thin_green.fbx	04 Ruins	1	83	(1.10, 3.17, 0.36)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/banner_thin_red.fbx	04 Ruins	1	83	(1.10, 3.17, 0.36)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/banner_thin_white.fbx	04 Ruins	1	83	(1.10, 3.17, 0.36)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/banner_thin_yellow.fbx	04 Ruins	1	83	(1.10, 3.17, 0.36)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/banner_triple_blue.fbx	04 Ruins	1	263	(3.70, 3.20, 0.36)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/banner_triple_brown.fbx	04 Ruins	1	263	(3.70, 3.20, 0.36)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/banner_triple_green.fbx	04 Ruins	1	263	(3.70, 3.20, 0.36)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/banner_triple_red.fbx	04 Ruins	1	263	(3.70, 3.20, 0.36)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/banner_triple_white.fbx	04 Ruins	1	263	(3.70, 3.20, 0.36)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/banner_triple_yellow.fbx	04 Ruins	1	263	(3.70, 3.20, 0.36)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/banner_white.fbx	04 Ruins	1	97	(1.50, 3.20, 0.31)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/banner_yellow.fbx	04 Ruins	1	97	(1.50, 3.20, 0.31)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/barrel_large.fbx	04 Ruins	1	561	(1.80, 2.00, 1.80)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/barrel_large_decorated.fbx	04 Ruins	1	1047	(1.94, 2.56, 1.86)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/barrel_small.fbx	04 Ruins	1	207	(1.00, 1.02, 1.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/barrel_small_stack.fbx	04 Ruins	1	1149	(1.85, 1.77, 1.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/barrier.fbx	04 Ruins	1	90	(4.00, 1.10, 0.50)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/barrier_colum_half.fbx	04 Ruins	1	86	(2.35, 1.40, 0.70)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/barrier_column.fbx	04 Ruins	1	110	(4.00, 1.40, 0.70)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/barrier_corner.fbx	04 Ruins	1	128	(2.39, 1.40, 2.39)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/barrier_half.fbx	04 Ruins	1	42	(2.00, 1.10, 0.50)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/bed_decorated.fbx	04 Ruins	1	1410	(2.61, 1.70, 3.06)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/bed_floor.fbx	04 Ruins	1	232	(1.50, 0.56, 3.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/bed_frame.fbx	04 Ruins	1	304	(1.50, 1.06, 3.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/bottle_A_brown.fbx	04 Ruins	1	144	(0.37, 0.89, 0.37)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/bottle_A_green.fbx	04 Ruins	1	144	(0.37, 0.89, 0.37)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/bottle_A_labeled_brown.fbx	04 Ruins	1	144	(0.37, 0.89, 0.37)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/bottle_A_labeled_green.fbx	04 Ruins	1	144	(0.37, 0.89, 0.37)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/bottle_B_brown.fbx	04 Ruins	1	144	(0.55, 0.89, 0.55)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/bottle_B_green.fbx	04 Ruins	1	144	(0.55, 0.89, 0.55)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/bottle_C_brown.fbx	04 Ruins	1	144	(0.74, 0.91, 0.74)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/bottle_C_green.fbx	04 Ruins	1	144	(0.74, 0.91, 0.74)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/box_large.fbx	04 Ruins	1	188	(1.50, 1.50, 1.50)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/box_small.fbx	04 Ruins	1	188	(1.00, 1.00, 1.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/box_small_decorated.fbx	04 Ruins	1	928	(1.49, 1.48, 1.49)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/box_stacked.fbx	04 Ruins	1	2173	(3.48, 3.31, 3.63)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/candle.fbx	04 Ruins	1	66	(0.33, 0.87, 0.33)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/candle_lit.fbx	04 Ruins	1	120	(0.33, 1.05, 0.33)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/candle_melted.fbx	04 Ruins	1	66	(0.33, 0.70, 0.33)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/candle_thin.fbx	04 Ruins	1	66	(0.19, 0.87, 0.19)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/candle_thin_lit.fbx	04 Ruins	1	120	(0.19, 1.05, 0.19)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/candle_triple.fbx	04 Ruins	1	198	(0.50, 0.87, 0.39)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/ceiling_tile.fbx	04 Ruins	1	60	(4.00, 0.35, 4.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/chair.fbx	04 Ruins	1	294	(0.75, 1.23, 0.75)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/chest.fbx	04 Ruins	2	728	(1.70, 1.30, 1.45)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/chest_gold.fbx	04 Ruins	2	1568	(1.70, 1.30, 1.45)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/coin.fbx	04 Ruins	1	80	(0.36, 0.13, 0.36)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/coin_stack_large.fbx	04 Ruins	1	1776	(1.44, 1.16, 1.66)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/coin_stack_medium.fbx	04 Ruins	1	968	(0.99, 0.64, 1.03)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/coin_stack_small.fbx	04 Ruins	1	416	(0.96, 0.48, 0.90)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/column.fbx	04 Ruins	1	44	(0.70, 1.40, 0.70)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/crates_stacked.fbx	04 Ruins	1	1331	(2.09, 2.14, 2.25)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/floor_dirt_large.fbx	04 Ruins	1	104	(4.00, 0.21, 4.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/floor_dirt_large_rocky.fbx	04 Ruins	1	187	(4.00, 0.39, 4.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/floor_dirt_small_A.fbx	04 Ruins	1	45	(2.00, 0.19, 2.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/floor_dirt_small_B.fbx	04 Ruins	1	36	(2.00, 0.19, 2.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/floor_dirt_small_C.fbx	04 Ruins	1	33	(2.00, 0.21, 2.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/floor_dirt_small_corner.fbx	04 Ruins	1	56	(2.00, 0.15, 2.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/floor_dirt_small_D.fbx	04 Ruins	1	20	(2.00, 0.14, 2.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/floor_dirt_small_weeds.fbx	04 Ruins	1	416	(2.00, 0.30, 2.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/floor_foundation_allsides.fbx	04 Ruins	1	360	(2.20, 2.00, 2.20)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/floor_foundation_corner.fbx	04 Ruins	1	202	(2.10, 2.00, 2.10)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/floor_foundation_diagonal_corner.fbx	04 Ruins	1	111	(2.10, 2.00, 2.10)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/floor_foundation_front.fbx	04 Ruins	1	123	(2.00, 2.00, 2.10)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/floor_foundation_front_and_back.fbx	04 Ruins	1	202	(2.00, 2.00, 2.20)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/floor_foundation_front_and_sides.fbx	04 Ruins	1	281	(2.20, 2.00, 2.10)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/floor_tile_big_grate.fbx	04 Ruins	1	292	(4.00, 1.05, 4.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/floor_tile_big_grate_open.fbx	04 Ruins	1	284	(4.00, 1.05, 4.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/floor_tile_big_spikes.fbx	04 Ruins	2	638	(4.00, 2.10, 4.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/floor_tile_extralarge_grates.fbx	04 Ruins	1	772	(8.00, 1.13, 8.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/floor_tile_extralarge_grates_open.fbx	04 Ruins	1	764	(8.00, 1.13, 8.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/floor_tile_grate.fbx	04 Ruins	1	142	(4.00, 1.03, 2.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/floor_tile_grate_open.fbx	04 Ruins	1	140	(4.00, 1.03, 2.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/floor_tile_large.fbx	04 Ruins	1	188	(4.00, 0.15, 4.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/floor_tile_large_rocks.fbx	04 Ruins	1	338	(4.00, 0.64, 4.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/floor_tile_small.fbx	04 Ruins	1	66	(2.00, 0.15, 2.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/floor_tile_small_broken_A.fbx	04 Ruins	1	94	(2.00, 0.15, 2.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/floor_tile_small_broken_B.fbx	04 Ruins	1	76	(2.00, 0.15, 2.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/floor_tile_small_corner.fbx	04 Ruins	1	31	(2.00, 0.15, 2.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/floor_tile_small_decorated.fbx	04 Ruins	1	390	(2.00, 0.77, 2.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/floor_tile_small_weeds_A.fbx	04 Ruins	1	589	(2.00, 0.30, 2.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/floor_tile_small_weeds_B.fbx	04 Ruins	1	447	(2.00, 0.30, 2.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/floor_wood_large.fbx	04 Ruins	1	272	(4.00, 0.15, 4.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/floor_wood_large_dark.fbx	04 Ruins	1	272	(4.00, 0.15, 4.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/floor_wood_small.fbx	04 Ruins	1	78	(2.00, 0.15, 2.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/floor_wood_small_dark.fbx	04 Ruins	1	78	(2.00, 0.15, 2.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/keg.fbx	04 Ruins	1	807	(1.80, 2.05, 2.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/keg_decorated.fbx	04 Ruins	1	2058	(3.52, 2.05, 2.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/key.fbx	04 Ruins	1	160	(0.90, 0.40, 0.14)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/keyring.fbx	04 Ruins	1	728	(1.03, 0.26, 1.21)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/keyring_hanging.fbx	04 Ruins	1	728	(0.68, 1.22, 0.38)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/pillar.fbx	04 Ruins	1	136	(1.50, 4.00, 1.50)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/pillar_decorated.fbx	04 Ruins	1	761	(2.23, 4.00, 1.71)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/plate.fbx	04 Ruins	1	120	(0.97, 0.13, 0.97)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/plate_food_A.fbx	04 Ruins	1	547	(1.02, 0.79, 0.97)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/plate_food_B.fbx	04 Ruins	1	306	(0.97, 0.24, 0.97)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/plate_small.fbx	04 Ruins	1	120	(0.49, 0.13, 0.49)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/plate_stack.fbx	04 Ruins	1	360	(1.00, 0.56, 1.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/rubble_half.fbx	04 Ruins	1	390	(4.00, 3.50, 3.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/rubble_large.fbx	04 Ruins	1	788	(8.13, 3.50, 3.18)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/shelf_large.fbx	04 Ruins	1	76	(2.00, 0.45, 0.50)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/shelf_small.fbx	04 Ruins	1	60	(1.00, 0.40, 0.50)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/shelf_small_candles.fbx	04 Ruins	1	231	(1.00, 0.99, 0.50)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/shelves.fbx	04 Ruins	1	152	(2.00, 1.95, 0.50)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/stairs.fbx	04 Ruins	1	358	(5.00, 5.10, 4.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/stairs_long.fbx	04 Ruins	1	442	(5.00, 5.10, 8.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/stairs_long_modular_center.fbx	04 Ruins	1	54	(2.00, 4.00, 8.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/stairs_long_modular_left.fbx	04 Ruins	1	248	(1.50, 5.10, 8.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/stairs_long_modular_right.fbx	04 Ruins	1	248	(1.50, 5.10, 8.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/stairs_modular_center.fbx	04 Ruins	1	54	(2.00, 4.00, 4.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/stairs_modular_left.fbx	04 Ruins	1	206	(1.50, 5.10, 4.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/stairs_modular_right.fbx	04 Ruins	1	206	(1.50, 5.10, 4.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/stairs_narrow.fbx	04 Ruins	1	358	(4.00, 5.10, 4.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/stairs_wall_left.fbx	04 Ruins	1	574	(4.00, 5.10, 5.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/stairs_wall_right.fbx	04 Ruins	1	574	(4.00, 5.10, 5.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/stairs_walled.fbx	04 Ruins	1	790	(5.00, 4.00, 4.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/stairs_wide.fbx	04 Ruins	1	358	(7.00, 5.10, 4.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/stairs_wood.fbx	04 Ruins	1	296	(3.30, 4.05, 6.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/stairs_wood_decorated.fbx	04 Ruins	1	2537	(3.30, 4.05, 6.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/stool.fbx	04 Ruins	1	172	(0.75, 0.50, 0.75)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/sword_shield.fbx	04 Ruins	1	542	(2.23, 1.67, 0.34)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/sword_shield_broken.fbx	04 Ruins	1	396	(1.43, 1.96, 0.34)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/sword_shield_gold.fbx	04 Ruins	1	542	(2.23, 1.67, 0.34)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/table_long.fbx	04 Ruins	1	280	(2.00, 1.00, 4.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/table_long_broken.fbx	04 Ruins	1	550	(2.41, 1.27, 4.40)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/table_long_decorated_A.fbx	04 Ruins	1	1961	(2.06, 1.89, 4.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/table_long_decorated_C.fbx	04 Ruins	1	3499	(2.00, 2.77, 4.03)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/table_long_tablecloth.fbx	04 Ruins	1	354	(2.00, 1.00, 4.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/table_long_tablecloth_decorated_A.fbx	04 Ruins	1	2035	(2.06, 1.89, 4.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/table_medium.fbx	04 Ruins	1	256	(2.00, 1.00, 2.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/table_medium_broken.fbx	04 Ruins	1	247	(2.28, 0.97, 2.43)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/table_medium_decorated_A.fbx	04 Ruins	1	1186	(2.00, 1.89, 2.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/table_medium_tablecloth.fbx	04 Ruins	1	270	(2.00, 1.00, 2.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/table_medium_tablecloth_decorated_B.fbx	04 Ruins	1	1200	(2.00, 1.89, 2.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/table_small.fbx	04 Ruins	1	192	(1.00, 1.00, 1.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/table_small_decorated_A.fbx	04 Ruins	1	986	(1.04, 1.62, 1.21)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/table_small_decorated_B.fbx	04 Ruins	1	1576	(1.01, 2.16, 1.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/torch.fbx	04 Ruins	1	216	(0.55, 1.04, 0.55)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/torch_lit.fbx	04 Ruins	1	270	(0.55, 1.13, 0.55)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/torch_mounted.fbx	04 Ruins	1	278	(0.55, 1.06, 0.62)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/trunk_large_A.fbx	04 Ruins	1	204	(1.50, 1.00, 1.30)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/trunk_large_B.fbx	04 Ruins	1	204	(1.50, 1.00, 1.30)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/trunk_large_C.fbx	04 Ruins	1	204	(1.50, 1.00, 1.30)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/trunk_medium_A.fbx	04 Ruins	1	148	(0.95, 0.73, 0.88)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/trunk_medium_B.fbx	04 Ruins	1	148	(0.95, 0.73, 0.88)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/trunk_medium_C.fbx	04 Ruins	1	148	(0.95, 0.73, 0.88)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/trunk_small_A.fbx	04 Ruins	1	204	(0.68, 0.48, 0.58)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/trunk_small_B.fbx	04 Ruins	1	204	(0.68, 0.48, 0.58)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/trunk_small_C.fbx	04 Ruins	1	204	(0.68, 0.48, 0.58)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/wall.fbx	04 Ruins	1	494	(4.00, 4.00, 1.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/wall_arched.fbx	04 Ruins	1	724	(4.00, 4.00, 1.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/wall_archedwindow_gated.fbx	04 Ruins	1	732	(4.00, 4.00, 1.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/wall_archedwindow_gated_scaffold.fbx	04 Ruins	1	674	(4.00, 4.00, 1.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/wall_archedwindow_open.fbx	04 Ruins	1	635	(4.00, 4.00, 1.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/wall_broken.fbx	04 Ruins	1	784	(4.00, 4.00, 1.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/wall_corner.fbx	04 Ruins	1	443	(2.50, 4.00, 2.50)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/wall_corner_gated.fbx	04 Ruins	1	557	(2.50, 4.00, 2.50)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/wall_corner_scaffold.fbx	04 Ruins	1	515	(2.50, 4.00, 2.50)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/wall_corner_small.fbx	04 Ruins	1	223	(1.50, 4.00, 1.50)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/wall_cracked.fbx	04 Ruins	1	2010	(4.00, 4.00, 1.26)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/wall_crossing.fbx	04 Ruins	1	698	(4.00, 4.00, 4.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/wall_doorway.fbx	04 Ruins	2	1068	(4.00, 4.00, 1.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/wall_doorway_scaffold.fbx	04 Ruins	2	1150	(4.00, 4.00, 1.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/wall_doorway_sides.fbx	04 Ruins	1	1160	(5.00, 4.00, 4.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/wall_doorway_Tsplit.fbx	04 Ruins	1	1096	(8.00, 4.00, 2.50)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/wall_endcap.fbx	04 Ruins	1	222	(1.07, 4.00, 1.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/wall_gated.fbx	04 Ruins	1	449	(4.00, 4.00, 1.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/wall_half.fbx	04 Ruins	1	272	(2.00, 4.00, 1.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/wall_half_endcap.fbx	04 Ruins	1	268	(2.00, 4.00, 1.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/wall_half_endcap_sloped.fbx	04 Ruins	1	230	(2.00, 4.00, 1.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/wall_open_scaffold.fbx	04 Ruins	1	196	(4.00, 4.00, 1.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/wall_pillar.fbx	04 Ruins	1	540	(4.00, 4.00, 1.50)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/wall_scaffold.fbx	04 Ruins	1	584	(4.00, 4.00, 1.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/wall_shelves.fbx	04 Ruins	1	1582	(4.00, 4.00, 1.37)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/wall_sloped.fbx	04 Ruins	1	257	(4.00, 4.00, 1.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/wall_Tsplit.fbx	04 Ruins	1	596	(4.00, 4.00, 2.50)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/wall_Tsplit_sloped.fbx	04 Ruins	1	555	(4.00, 4.00, 2.50)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/wall_window_closed.fbx	04 Ruins	1	664	(4.00, 4.00, 1.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/wall_window_closed_scaffold.fbx	04 Ruins	1	736	(4.00, 4.00, 1.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/wall_window_open.fbx	04 Ruins	1	604	(4.00, 4.00, 1.00)	0	0	False	0
+Assets/Art/External/KayKit/DungeonRemastered/KayKit_Dungeon_Pack_1.1_FREE/Assets/fbx(unity)/wall_window_open_scaffold.fbx	04 Ruins	1	676	(4.00, 4.00, 1.00)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Bush_1_A_Color1.fbx	02 Plants	1	72	(0.27, 0.23, 0.23)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Bush_1_B_Color1.fbx	02 Plants	1	168	(0.72, 0.48, 0.72)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Bush_1_C_Color1.fbx	02 Plants	1	168	(1.20, 0.81, 1.20)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Bush_1_D_Color1.fbx	02 Plants	1	168	(1.57, 0.99, 1.57)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Bush_1_E_Color1.fbx	02 Plants	1	552	(1.58, 0.81, 1.32)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Bush_1_F_Color1.fbx	02 Plants	1	576	(2.28, 0.99, 1.88)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Bush_1_G_Color1.fbx	02 Plants	1	984	(3.10, 0.99, 1.75)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Bush_2_A_Color1.fbx	02 Plants	1	44	(0.53, 0.53, 0.53)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Bush_2_B_Color1.fbx	02 Plants	1	108	(0.86, 0.86, 0.86)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Bush_2_C_Color1.fbx	02 Plants	1	108	(1.32, 1.32, 1.32)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Bush_2_D_Color1.fbx	02 Plants	1	196	(1.57, 0.86, 1.02)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Bush_2_E_Color1.fbx	02 Plants	1	476	(2.35, 1.33, 2.01)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Bush_2_F_Color1.fbx	02 Plants	1	368	(2.01, 1.79, 1.59)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Bush_3_A_Color1.fbx	02 Plants	1	208	(1.03, 0.49, 1.03)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Bush_3_B_Color1.fbx	02 Plants	1	240	(1.68, 0.80, 1.68)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Bush_3_C_Color1.fbx	02 Plants	1	272	(2.49, 1.15, 2.49)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Bush_4_A_Color1.fbx	02 Plants	1	44	(0.58, 0.43, 0.58)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Bush_4_B_Color1.fbx	02 Plants	1	44	(0.99, 0.74, 0.99)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Bush_4_C_Color1.fbx	02 Plants	1	108	(1.58, 1.30, 1.58)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Bush_4_D_Color1.fbx	02 Plants	1	132	(1.74, 0.74, 1.29)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Bush_4_E_Color1.fbx	02 Plants	1	284	(2.70, 1.30, 2.28)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Bush_4_F_Color1.fbx	02 Plants	1	284	(3.39, 1.30, 2.14)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Grass_1_A_Color1.fbx	02 Plants	1	44	(0.34, 0.56, 0.15)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Grass_1_A_Singlesided_Color1.fbx	02 Plants	1	14	(0.29, 0.56, 0.13)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Grass_1_B_Color1.fbx	02 Plants	1	132	(0.51, 0.54, 0.56)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Grass_1_B_Singlesided_Color1.fbx	02 Plants	1	42	(0.51, 0.52, 0.53)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Grass_1_C_Color1.fbx	02 Plants	1	396	(0.75, 0.58, 0.72)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Grass_1_C_Singlesided_Color1.fbx	02 Plants	1	126	(0.73, 0.58, 0.73)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Grass_1_D_Color1.fbx	02 Plants	1	528	(1.08, 0.59, 1.18)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Grass_1_D_Singlesided_Color1.fbx	02 Plants	1	168	(1.04, 0.58, 1.19)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Grass_1_Mesh.fbx	02 Plants	1	44	(0.34, 0.56, 0.15)	0	1	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Grass_1_SingleSided_Mesh.fbx	02 Plants	1	14	(0.29, 0.56, 0.13)	0	1	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Grass_2_A_Color1.fbx	02 Plants	1	44	(0.16, 0.92, 0.25)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Grass_2_A_Singlesided_Color1.fbx	02 Plants	1	14	(0.16, 0.92, 0.23)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Grass_2_B_Color1.fbx	02 Plants	1	132	(0.40, 0.92, 0.40)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Grass_2_B_Singlesided_Color1.fbx	02 Plants	1	42	(0.38, 0.92, 0.38)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Grass_2_C_Color1.fbx	02 Plants	1	528	(0.90, 0.94, 0.76)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Grass_2_C_Singlesided_Color1.fbx	02 Plants	1	168	(0.87, 0.93, 0.74)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Grass_2_D_Color1.fbx	02 Plants	1	528	(1.10, 0.94, 1.37)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Grass_2_D_Singlesided_Color1.fbx	02 Plants	1	168	(1.08, 0.93, 1.34)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Grass_2_Mesh.fbx	02 Plants	1	44	(0.16, 0.92, 0.25)	0	1	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Grass_2_SingleSided_Mesh.fbx	02 Plants	1	14	(0.16, 0.92, 0.23)	0	1	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Rock_1_A_Color1.fbx	03 Rocks	1	48	(0.58, 0.54, 0.61)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Rock_1_B_Color1.fbx	03 Rocks	1	48	(0.55, 0.54, 0.58)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Rock_1_C_Color1.fbx	03 Rocks	1	48	(0.52, 0.54, 0.61)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Rock_1_D_Color1.fbx	03 Rocks	1	84	(0.93, 1.13, 1.16)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Rock_1_E_Color1.fbx	03 Rocks	1	84	(1.00, 1.13, 1.09)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Rock_1_F_Color1.fbx	03 Rocks	1	84	(1.00, 1.13, 0.87)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Rock_1_G_Color1.fbx	03 Rocks	1	104	(1.75, 1.87, 1.65)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Rock_1_H_Color1.fbx	03 Rocks	1	104	(1.53, 1.87, 1.53)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Rock_1_I_Color1.fbx	03 Rocks	1	104	(1.61, 1.87, 2.00)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Rock_1_J_Color1.fbx	03 Rocks	1	521	(3.39, 3.36, 3.76)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Rock_1_K_Color1.fbx	03 Rocks	1	529	(3.69, 3.65, 3.13)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Rock_1_L_Color1.fbx	03 Rocks	1	494	(3.29, 3.40, 2.62)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Rock_1_M_Color1.fbx	03 Rocks	1	528	(3.91, 3.52, 2.71)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Rock_1_N_Color1.fbx	03 Rocks	1	355	(2.30, 4.50, 2.24)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Rock_1_O_Color1.fbx	03 Rocks	1	223	(2.11, 4.58, 2.11)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Rock_1_P_Color1.fbx	03 Rocks	1	405	(2.21, 4.01, 1.84)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Rock_1_Q_Color1.fbx	03 Rocks	1	497	(2.22, 4.28, 2.80)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Rock_2_A_Color1.fbx	03 Rocks	1	12	(0.22, 0.22, 0.22)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Rock_2_B_Color1.fbx	03 Rocks	1	44	(0.63, 0.65, 0.63)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Rock_2_C_Color1.fbx	03 Rocks	1	108	(1.30, 1.33, 1.30)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Rock_2_D_Color1.fbx	03 Rocks	1	108	(1.71, 1.74, 1.71)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Rock_2_E_Color1.fbx	03 Rocks	1	438	(3.17, 2.86, 3.31)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Rock_2_F_Color1.fbx	03 Rocks	1	428	(4.14, 2.86, 2.87)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Rock_2_G_Color1.fbx	03 Rocks	1	488	(3.09, 3.20, 3.73)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Rock_2_H_Color1.fbx	03 Rocks	1	312	(3.70, 2.76, 3.31)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Rock_3_A_Color1.fbx	03 Rocks	1	84	(0.96, 0.86, 0.81)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Rock_3_B_Color1.fbx	03 Rocks	1	84	(0.82, 1.03, 0.85)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Rock_3_C_Color1.fbx	03 Rocks	1	84	(0.81, 0.97, 0.86)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Rock_3_D_Color1.fbx	03 Rocks	1	84	(0.93, 0.97, 0.79)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Rock_3_E_Color1.fbx	03 Rocks	1	84	(1.15, 1.29, 1.18)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Rock_3_F_Color1.fbx	03 Rocks	1	84	(1.09, 1.18, 1.19)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Rock_3_G_Color1.fbx	03 Rocks	1	168	(1.86, 2.00, 1.73)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Rock_3_H_Color1.fbx	03 Rocks	1	168	(1.95, 2.06, 1.76)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Rock_3_I_Color1.fbx	03 Rocks	1	168	(1.92, 2.11, 1.64)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Rock_3_J_Color1.fbx	03 Rocks	1	168	(1.97, 1.90, 1.74)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Rock_3_K_Color1.fbx	03 Rocks	1	168	(2.61, 2.22, 2.59)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Rock_3_L_Color1.fbx	03 Rocks	1	168	(2.62, 2.27, 2.56)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Rock_3_M_Color1.fbx	03 Rocks	1	320	(3.43, 3.60, 2.81)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Rock_3_N_Color1.fbx	03 Rocks	1	320	(3.42, 3.53, 2.98)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Rock_3_O_Color1.fbx	03 Rocks	1	320	(3.48, 3.47, 2.93)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Rock_3_P_Color1.fbx	03 Rocks	1	320	(3.29, 3.68, 2.87)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Rock_3_Q_Color1.fbx	03 Rocks	1	320	(4.65, 3.72, 4.48)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Rock_3_R_Color1.fbx	03 Rocks	1	320	(5.16, 3.85, 4.21)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Tree_1_A_Color1.fbx	01 Trees	1	530	(3.18, 4.16, 3.25)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Tree_1_B_Color1.fbx	01 Trees	1	636	(4.01, 4.93, 3.45)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Tree_1_C_Color1.fbx	01 Trees	1	1364	(6.69, 7.81, 5.75)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Tree_2_A_Color1.fbx	01 Trees	1	336	(2.60, 4.67, 2.00)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Tree_2_B_Color1.fbx	01 Trees	1	492	(3.70, 6.04, 2.10)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Tree_2_C_Color1.fbx	01 Trees	1	648	(4.60, 6.92, 3.40)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Tree_2_D_Color1.fbx	01 Trees	1	1428	(4.74, 8.09, 4.03)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Tree_2_E_Color1.fbx	01 Trees	1	1560	(6.05, 8.79, 5.68)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Tree_3_A_Color1.fbx	01 Trees	1	978	(3.09, 3.51, 3.09)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Tree_3_B_Color1.fbx	01 Trees	1	988	(4.13, 4.35, 4.13)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Tree_3_C_Color1.fbx	01 Trees	1	2228	(5.63, 5.79, 4.62)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Tree_4_A_Color1.fbx	01 Trees	1	404	(2.01, 5.27, 2.00)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Tree_4_B_Color1.fbx	01 Trees	1	522	(2.57, 6.94, 2.27)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Tree_4_C_Color1.fbx	01 Trees	1	982	(3.74, 10.77, 2.87)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Tree_Bare_1_A_Color1.fbx	01 Trees	1	324	(1.13, 2.86, 1.03)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Tree_Bare_1_B_Color1.fbx	01 Trees	1	332	(1.96, 3.25, 1.45)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Tree_Bare_1_C_Color1.fbx	01 Trees	1	936	(3.74, 5.26, 2.07)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Tree_Bare_2_A_Color1.fbx	01 Trees	1	404	(1.20, 3.84, 0.60)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Tree_Bare_2_B_Color1.fbx	01 Trees	1	448	(1.79, 5.54, 0.66)	0	0	False	0
+Assets/Art/External/KayKit/ForestNature/KayKit_Forest_Nature_Pack_1.0_FREE/Assets/fbx(unity)/Tree_Bare_2_C_Color1.fbx	01 Trees	1	634	(1.58, 7.61, 1.10)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Copper_Bar.fbx	06 Resources	1	108	(0.40, 0.25, 0.80)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Copper_Bars.fbx	06 Resources	1	936	(1.27, 0.79, 0.91)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Copper_Bars_Stack_Large.fbx	06 Resources	1	5184	(1.66, 1.50, 1.68)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Copper_Bars_Stack_Medium.fbx	06 Resources	1	1296	(0.80, 1.50, 0.80)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Copper_Bars_Stack_Small.fbx	06 Resources	1	648	(0.80, 0.75, 0.80)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Copper_Nugget_Large.fbx	06 Resources	1	100	(0.43, 0.47, 0.39)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Copper_Nugget_Medium.fbx	06 Resources	1	40	(0.26, 0.28, 0.28)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Copper_Nugget_Small.fbx	06 Resources	1	40	(0.14, 0.12, 0.15)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Copper_Nuggets.fbx	06 Resources	1	360	(0.93, 0.47, 0.85)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Fuel_A_Barrel.fbx	06 Resources	1	868	(0.75, 1.01, 0.75)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Fuel_A_Barrel_Dirty.fbx	06 Resources	1	1140	(0.75, 1.01, 0.75)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Fuel_A_Barrels.fbx	06 Resources	1	4400	(1.51, 1.01, 1.51)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Fuel_A_Jerrycan.fbx	06 Resources	1	640	(0.40, 0.78, 0.72)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Fuel_B_Barrel.fbx	06 Resources	1	868	(0.75, 1.01, 0.75)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Fuel_B_Barrel_Dirty.fbx	06 Resources	1	1140	(0.75, 1.01, 0.75)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Fuel_B_Barrels.fbx	06 Resources	1	4400	(1.51, 1.01, 1.51)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Fuel_B_Jerrycan.fbx	06 Resources	1	640	(0.40, 0.78, 0.72)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Fuel_C_Barrel.fbx	06 Resources	1	868	(0.75, 1.01, 0.75)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Fuel_C_Barrel_Dirty.fbx	06 Resources	1	1140	(0.75, 1.01, 0.75)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Fuel_C_Barrels.fbx	06 Resources	1	4400	(1.51, 1.01, 1.51)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Fuel_C_Jerrycan.fbx	06 Resources	1	640	(0.40, 0.78, 0.72)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Gold_Bar.fbx	06 Resources	1	108	(0.40, 0.25, 0.80)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Gold_Bars.fbx	06 Resources	1	936	(1.27, 0.79, 0.91)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Gold_Bars_Stack_Large.fbx	06 Resources	1	5184	(1.66, 1.50, 1.68)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Gold_Bars_Stack_Medium.fbx	06 Resources	1	1296	(0.80, 1.50, 0.80)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Gold_Bars_Stack_Small.fbx	06 Resources	1	648	(0.80, 0.75, 0.80)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Gold_Nugget_Large.fbx	06 Resources	1	100	(0.43, 0.47, 0.39)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Gold_Nugget_Medium.fbx	06 Resources	1	40	(0.26, 0.28, 0.28)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Gold_Nugget_Small.fbx	06 Resources	1	40	(0.14, 0.12, 0.15)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Gold_Nuggets.fbx	06 Resources	1	360	(0.93, 0.47, 0.85)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Iron_Bar.fbx	06 Resources	1	108	(0.40, 0.25, 0.80)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Iron_Bars.fbx	06 Resources	1	936	(1.27, 0.79, 0.91)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Iron_Bars_Stack_Large.fbx	06 Resources	1	5184	(1.66, 1.50, 1.68)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Iron_Bars_Stack_Medium.fbx	06 Resources	1	1296	(0.80, 1.50, 0.80)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Iron_Bars_Stack_Small.fbx	06 Resources	1	648	(0.80, 0.75, 0.80)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Iron_Nugget_Large.fbx	06 Resources	1	100	(0.43, 0.47, 0.39)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Iron_Nugget_Medium.fbx	06 Resources	1	40	(0.26, 0.28, 0.28)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Iron_Nugget_Small.fbx	06 Resources	1	40	(0.14, 0.12, 0.15)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Iron_Nuggets.fbx	06 Resources	1	360	(0.93, 0.47, 0.85)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Pallet_Wood.fbx	06 Resources	1	192	(1.55, 0.30, 1.50)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Pallet_Wood_Covered_A.fbx	06 Resources	1	366	(1.72, 0.30, 1.72)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Pallet_Wood_Covered_B.fbx	06 Resources	1	366	(1.72, 0.30, 1.72)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Parts_Cog.fbx	06 Resources	1	192	(0.37, 0.40, 0.15)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Parts_Pile_Large.fbx	06 Resources	1	2736	(1.74, 0.72, 1.57)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Parts_Pile_Medium.fbx	06 Resources	1	1556	(1.02, 1.47, 0.87)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Parts_Pile_Small.fbx	06 Resources	1	1148	(1.16, 0.33, 0.99)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Silver_Bar.fbx	06 Resources	1	108	(0.40, 0.25, 0.80)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Silver_Bars.fbx	06 Resources	1	936	(1.27, 0.79, 0.91)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Silver_Bars_Stack_Large.fbx	06 Resources	1	5184	(1.66, 1.50, 1.68)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Silver_Bars_Stack_Medium.fbx	06 Resources	1	1296	(0.80, 1.50, 0.80)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Silver_Bars_Stack_Small.fbx	06 Resources	1	648	(0.80, 0.75, 0.80)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Silver_Nugget_Large.fbx	06 Resources	1	100	(0.43, 0.47, 0.39)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Silver_Nugget_Medium.fbx	06 Resources	1	40	(0.26, 0.28, 0.28)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Silver_Nugget_Small.fbx	06 Resources	1	40	(0.14, 0.12, 0.15)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Silver_Nuggets.fbx	06 Resources	1	360	(0.93, 0.47, 0.85)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Stone_Brick.fbx	06 Resources	1	44	(0.45, 0.30, 0.75)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Stone_Bricks_Stack_Large.fbx	06 Resources	1	1444	(1.51, 1.23, 1.63)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Stone_Bricks_Stack_Medium.fbx	06 Resources	1	768	(1.51, 0.63, 1.59)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Stone_Bricks_Stack_Small.fbx	06 Resources	1	282	(1.04, 0.63, 0.82)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Stone_Chunks_Large.fbx	06 Resources	1	1578	(1.50, 1.08, 1.35)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Stone_Chunks_Small.fbx	06 Resources	1	554	(1.12, 0.58, 0.79)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Textiles_A.fbx	06 Resources	1	424	(0.75, 0.44, 0.95)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Textiles_B.fbx	06 Resources	1	828	(0.82, 0.93, 0.80)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Textiles_C.fbx	06 Resources	1	840	(0.61, 0.52, 1.55)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Textiles_Stack_Large.fbx	06 Resources	1	1676	(1.64, 0.96, 1.66)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Textiles_Stack_Large_Colored.fbx	06 Resources	1	1916	(1.64, 0.96, 1.66)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Textiles_Stack_Small.fbx	06 Resources	1	1668	(1.66, 0.93, 1.59)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Wood_Log_A.fbx	06 Resources	1	756	(0.72, 0.73, 1.35)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Wood_Log_B.fbx	06 Resources	1	580	(0.55, 0.55, 1.35)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Wood_Log_Stack.fbx	06 Resources	1	3576	(1.68, 1.50, 1.50)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Wood_Plank_A.fbx	06 Resources	1	28	(0.40, 0.15, 1.50)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Wood_Plank_B.fbx	06 Resources	1	52	(0.40, 0.15, 1.50)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Wood_Plank_C.fbx	06 Resources	1	76	(0.40, 0.15, 1.50)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Wood_Planks_Stack_Large.fbx	06 Resources	1	1176	(1.67, 1.22, 1.62)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Wood_Planks_Stack_Medium.fbx	06 Resources	1	704	(1.67, 0.62, 1.62)	0	0	False	0
+Assets/Art/External/KayKit/ResourceBits/KayKit_ResourceBits_1.0_FREE/Assets/fbx(unity)/Wood_Planks_Stack_Small.fbx	06 Resources	1	248	(0.85, 0.32, 1.60)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/barrel.fbx	05 Beach and Boats	1	148	(1.34, 1.23, 1.34)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/boat-row-large.fbx	05 Beach and Boats	2	174	(2.75, 0.85, 2.85)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/boat-row-small.fbx	05 Beach and Boats	2	168	(2.75, 0.85, 2.37)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/bottle.fbx	05 Beach and Boats	1	124	(0.36, 0.89, 0.36)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/bottle-large.fbx	05 Beach and Boats	1	108	(0.47, 0.89, 0.47)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/cannon.fbx	05 Beach and Boats	3	232	(1.40, 1.05, 1.93)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/cannon-ball.fbx	05 Beach and Boats	1	48	(0.64, 0.67, 0.55)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/cannon-mobile.fbx	05 Beach and Boats	3	472	(1.68, 1.38, 1.93)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/castle-door.fbx	05 Beach and Boats	1	392	(2.00, 4.40, 3.20)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/castle-gate.fbx	05 Beach and Boats	1	716	(4.00, 4.40, 3.60)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/castle-wall.fbx	05 Beach and Boats	1	306	(2.00, 4.40, 2.80)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/castle-window.fbx	05 Beach and Boats	1	292	(2.00, 4.40, 2.80)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/chest.fbx	05 Beach and Boats	2	232	(1.28, 1.15, 1.28)	0	0	False	3
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/crate.fbx	05 Beach and Boats	1	76	(1.08, 0.77, 1.31)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/crate-bottles.fbx	05 Beach and Boats	1	572	(1.08, 1.06, 1.31)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/flag.fbx	05 Beach and Boats	1	144	(1.34, 2.10, 0.40)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/flag-high.fbx	05 Beach and Boats	1	144	(1.34, 3.60, 0.40)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/flag-high-pennant.fbx	05 Beach and Boats	1	118	(1.76, 3.60, 0.40)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/flag-pennant.fbx	05 Beach and Boats	1	118	(1.76, 2.10, 0.40)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/flag-pirate.fbx	05 Beach and Boats	1	144	(1.34, 2.10, 0.40)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/flag-pirate-high.fbx	05 Beach and Boats	1	144	(1.34, 3.60, 0.40)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/flag-pirate-high-pennant.fbx	05 Beach and Boats	1	118	(1.76, 3.60, 0.40)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/flag-pirate-pennant.fbx	05 Beach and Boats	1	118	(1.76, 2.10, 0.40)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/grass.fbx	05 Beach and Boats	1	72	(0.52, 0.31, 0.54)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/grass-patch.fbx	05 Beach and Boats	1	360	(1.31, 0.47, 1.27)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/grass-plant.fbx	05 Beach and Boats	1	144	(1.11, 0.52, 1.24)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/hole.fbx	05 Beach and Boats	1	286	(2.86, 0.35, 2.70)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/mast.fbx	05 Beach and Boats	3	302	(4.39, 7.86, 1.74)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/mast-ropes.fbx	05 Beach and Boats	3	350	(4.39, 7.89, 2.35)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/palm-bend.fbx	05 Beach and Boats	1	338	(2.88, 4.25, 3.22)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/palm-detailed-bend.fbx	05 Beach and Boats	1	482	(2.88, 4.25, 3.22)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/palm-detailed-straight.fbx	05 Beach and Boats	1	482	(3.22, 4.21, 3.22)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/palm-straight.fbx	05 Beach and Boats	1	338	(2.49, 4.21, 2.49)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/patch-grass.fbx	05 Beach and Boats	1	84	(5.27, 0.25, 4.11)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/patch-grass-foliage.fbx	05 Beach and Boats	1	300	(5.27, 0.56, 4.11)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/patch-sand.fbx	05 Beach and Boats	1	108	(7.74, 0.25, 6.04)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/patch-sand-foliage.fbx	05 Beach and Boats	1	636	(7.74, 0.56, 6.04)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/platform.fbx	05 Beach and Boats	1	60	(2.50, 0.23, 2.51)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/platform-planks.fbx	05 Beach and Boats	1	48	(1.89, 0.43, 2.70)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/rocks-a.fbx	05 Beach and Boats	1	264	(5.11, 2.90, 4.39)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/rocks-b.fbx	05 Beach and Boats	1	300	(4.44, 3.65, 4.70)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/rocks-c.fbx	05 Beach and Boats	1	232	(3.64, 2.30, 3.67)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/rocks-sand-a.fbx	05 Beach and Boats	1	552	(5.11, 3.21, 4.39)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/rocks-sand-b.fbx	05 Beach and Boats	1	516	(4.38, 3.71, 4.71)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/rocks-sand-c.fbx	05 Beach and Boats	1	448	(3.71, 2.61, 3.72)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/ship-ghost.fbx	05 Beach and Boats	6	1703	(4.80, 9.96, 10.60)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/ship-large.fbx	05 Beach and Boats	6	1849	(4.80, 9.96, 13.10)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/ship-medium.fbx	05 Beach and Boats	6	1723	(4.80, 9.96, 10.60)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/ship-pirate-large.fbx	05 Beach and Boats	6	1938	(4.80, 9.96, 13.10)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/ship-pirate-medium.fbx	05 Beach and Boats	6	1812	(4.80, 9.96, 10.60)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/ship-pirate-small.fbx	05 Beach and Boats	4	1461	(4.80, 9.96, 8.80)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/ship-small.fbx	05 Beach and Boats	4	1370	(4.80, 9.96, 8.80)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/ship-wreck.fbx	05 Beach and Boats	16	2282	(4.80, 9.96, 10.60)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/structure.fbx	05 Beach and Boats	1	276	(2.50, 2.20, 2.50)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/structure-fence.fbx	05 Beach and Boats	1	356	(2.50, 2.20, 2.50)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/structure-fence-sides.fbx	05 Beach and Boats	2	436	(2.50, 2.20, 2.50)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/structure-platform.fbx	05 Beach and Boats	1	220	(2.50, 0.93, 2.51)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/structure-platform-dock.fbx	05 Beach and Boats	1	324	(2.50, 1.31, 2.51)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/structure-platform-dock-small.fbx	05 Beach and Boats	1	312	(1.90, 1.31, 2.51)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/structure-platform-small.fbx	05 Beach and Boats	1	208	(1.90, 0.90, 2.51)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/structure-roof.fbx	05 Beach and Boats	1	348	(3.09, 3.40, 3.23)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/tool-paddle.fbx	05 Beach and Boats	1	60	(0.66, 2.35, 0.21)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/tool-shovel.fbx	05 Beach and Boats	1	168	(0.66, 2.35, 0.28)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/tower-base.fbx	05 Beach and Boats	1	44	(3.16, 2.00, 3.16)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/tower-base-door.fbx	05 Beach and Boats	1	130	(3.16, 2.00, 3.56)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/tower-complete-large.fbx	05 Beach and Boats	1	604	(3.63, 10.23, 3.63)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/tower-complete-small.fbx	05 Beach and Boats	1	650	(3.35, 6.79, 3.66)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/tower-middle.fbx	05 Beach and Boats	1	210	(3.05, 2.00, 3.05)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/tower-middle-windows.fbx	05 Beach and Boats	1	242	(2.83, 2.00, 3.07)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/tower-roof.fbx	05 Beach and Boats	1	110	(3.63, 3.44, 3.63)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/tower-top.fbx	05 Beach and Boats	1	334	(3.35, 2.79, 3.35)	0	0	False	0
+Assets/Art/External/Kenney/PirateKit/Models/FBX format/tower-watch.fbx	05 Beach and Boats	1	248	(3.05, 2.79, 3.05)	0	0	False	0
+Assets/Art/External/Kenney/WatercraftKit/Models/FBX format/arrow.fbx	05 Beach and Boats	1	62	(2.00, 0.60, 3.00)	0	0	False	0
+Assets/Art/External/Kenney/WatercraftKit/Models/FBX format/arrow-standing.fbx	05 Beach and Boats	1	40	(0.60, 2.00, 3.00)	0	0	False	0
+Assets/Art/External/Kenney/WatercraftKit/Models/FBX format/boat-fan.fbx	05 Beach and Boats	2	310	(1.79, 2.19, 2.87)	0	0	False	0
+Assets/Art/External/Kenney/WatercraftKit/Models/FBX format/boat-fishing-small.fbx	05 Beach and Boats	1	237	(1.79, 2.60, 3.87)	0	0	False	0
+Assets/Art/External/Kenney/WatercraftKit/Models/FBX format/boat-house-a.fbx	05 Beach and Boats	1	408	(2.68, 2.17, 4.64)	0	0	False	0
+Assets/Art/External/Kenney/WatercraftKit/Models/FBX format/boat-house-b.fbx	05 Beach and Boats	1	380	(2.68, 2.20, 5.55)	0	0	False	0
+Assets/Art/External/Kenney/WatercraftKit/Models/FBX format/boat-house-c.fbx	05 Beach and Boats	1	452	(2.68, 3.00, 5.15)	0	0	False	0
+Assets/Art/External/Kenney/WatercraftKit/Models/FBX format/boat-house-d.fbx	05 Beach and Boats	1	550	(2.68, 3.44, 4.64)	0	0	False	0
+Assets/Art/External/Kenney/WatercraftKit/Models/FBX format/boat-row-large.fbx	05 Beach and Boats	2	174	(2.75, 0.85, 2.85)	0	0	False	0
+Assets/Art/External/Kenney/WatercraftKit/Models/FBX format/boat-row-small.fbx	05 Beach and Boats	2	168	(2.75, 0.85, 2.37)	0	0	False	0
+Assets/Art/External/Kenney/WatercraftKit/Models/FBX format/boat-sail-a.fbx	05 Beach and Boats	2	386	(1.79, 4.74, 3.77)	0	0	False	0
+Assets/Art/External/Kenney/WatercraftKit/Models/FBX format/boat-sail-b.fbx	05 Beach and Boats	2	426	(1.79, 4.48, 4.07)	0	0	False	0
+Assets/Art/External/Kenney/WatercraftKit/Models/FBX format/boat-speed-a.fbx	05 Beach and Boats	1	156	(1.79, 1.50, 3.37)	0	0	False	0
+Assets/Art/External/Kenney/WatercraftKit/Models/FBX format/boat-speed-b.fbx	05 Beach and Boats	1	148	(1.79, 1.59, 3.29)	0	0	False	0
+Assets/Art/External/Kenney/WatercraftKit/Models/FBX format/boat-speed-c.fbx	05 Beach and Boats	1	154	(1.79, 1.30, 3.17)	0	0	False	0
+Assets/Art/External/Kenney/WatercraftKit/Models/FBX format/boat-speed-d.fbx	05 Beach and Boats	1	250	(2.00, 1.20, 3.87)	0	0	False	0
+Assets/Art/External/Kenney/WatercraftKit/Models/FBX format/boat-speed-e.fbx	05 Beach and Boats	1	265	(2.00, 1.46, 2.87)	0	0	False	0
+Assets/Art/External/Kenney/WatercraftKit/Models/FBX format/boat-speed-f.fbx	05 Beach and Boats	1	234	(2.20, 1.20, 2.87)	0	0	False	0
+Assets/Art/External/Kenney/WatercraftKit/Models/FBX format/boat-speed-g.fbx	05 Beach and Boats	1	136	(1.79, 1.30, 3.81)	0	0	False	0
+Assets/Art/External/Kenney/WatercraftKit/Models/FBX format/boat-speed-h.fbx	05 Beach and Boats	1	180	(1.79, 1.25, 3.67)	0	0	False	0
+Assets/Art/External/Kenney/WatercraftKit/Models/FBX format/boat-speed-i.fbx	05 Beach and Boats	1	136	(1.79, 1.70, 3.87)	0	0	False	0
+Assets/Art/External/Kenney/WatercraftKit/Models/FBX format/boat-speed-j.fbx	05 Beach and Boats	1	178	(1.79, 1.25, 4.27)	0	0	False	0
+Assets/Art/External/Kenney/WatercraftKit/Models/FBX format/boat-tow-a.fbx	05 Beach and Boats	1	576	(2.88, 3.33, 6.12)	0	0	False	0
+Assets/Art/External/Kenney/WatercraftKit/Models/FBX format/boat-tow-b.fbx	05 Beach and Boats	1	588	(2.88, 3.05, 6.12)	0	0	False	0
+Assets/Art/External/Kenney/WatercraftKit/Models/FBX format/boat-tug-a.fbx	05 Beach and Boats	1	471	(1.79, 2.24, 3.47)	0	0	False	0
+Assets/Art/External/Kenney/WatercraftKit/Models/FBX format/boat-tug-b.fbx	05 Beach and Boats	1	371	(1.79, 2.24, 2.87)	0	0	False	0
+Assets/Art/External/Kenney/WatercraftKit/Models/FBX format/boat-tug-c.fbx	05 Beach and Boats	1	197	(1.79, 1.80, 2.87)	0	0	False	0
+Assets/Art/External/Kenney/WatercraftKit/Models/FBX format/buoy.fbx	05 Beach and Boats	1	118	(0.93, 1.84, 0.93)	0	0	False	0
+Assets/Art/External/Kenney/WatercraftKit/Models/FBX format/buoy-flag.fbx	05 Beach and Boats	1	218	(0.93, 2.72, 1.29)	0	0	False	0
+Assets/Art/External/Kenney/WatercraftKit/Models/FBX format/cargo-container-a.fbx	05 Beach and Boats	1	160	(1.38, 1.10, 2.76)	0	0	False	0
+Assets/Art/External/Kenney/WatercraftKit/Models/FBX format/cargo-container-b.fbx	05 Beach and Boats	1	160	(1.38, 1.10, 2.76)	0	0	False	0
+Assets/Art/External/Kenney/WatercraftKit/Models/FBX format/cargo-container-c.fbx	05 Beach and Boats	1	160	(1.38, 1.10, 2.76)	0	0	False	0
+Assets/Art/External/Kenney/WatercraftKit/Models/FBX format/cargo-pile-a.fbx	05 Beach and Boats	1	176	(2.54, 1.20, 2.75)	0	0	False	0
+Assets/Art/External/Kenney/WatercraftKit/Models/FBX format/cargo-pile-b.fbx	05 Beach and Boats	1	352	(3.05, 1.20, 2.97)	0	0	False	0
+Assets/Art/External/Kenney/WatercraftKit/Models/FBX format/gate.fbx	05 Beach and Boats	1	104	(6.20, 4.65, 1.20)	0	0	False	0
+Assets/Art/External/Kenney/WatercraftKit/Models/FBX format/gate-finish.fbx	05 Beach and Boats	1	104	(6.20, 4.65, 1.20)	0	0	False	0
+Assets/Art/External/Kenney/WatercraftKit/Models/FBX format/ramp.fbx	05 Beach and Boats	1	128	(2.73, 1.14, 2.81)	0	0	False	0
+Assets/Art/External/Kenney/WatercraftKit/Models/FBX format/ramp-wide.fbx	05 Beach and Boats	1	128	(5.14, 1.14, 2.81)	0	0	False	0
+Assets/Art/External/Kenney/WatercraftKit/Models/FBX format/ship-cargo-a.fbx	05 Beach and Boats	4	1060	(3.92, 3.38, 10.55)	0	0	False	0
+Assets/Art/External/Kenney/WatercraftKit/Models/FBX format/ship-cargo-b.fbx	05 Beach and Boats	3	850	(3.92, 3.30, 10.55)	0	0	False	0
+Assets/Art/External/Kenney/WatercraftKit/Models/FBX format/ship-cargo-c.fbx	05 Beach and Boats	1	362	(3.92, 2.59, 10.55)	0	0	False	0
+Assets/Art/External/Kenney/WatercraftKit/Models/FBX format/ship-large.fbx	05 Beach and Boats	6	1849	(4.80, 9.96, 13.10)	0	0	False	0
+Assets/Art/External/Kenney/WatercraftKit/Models/FBX format/ship-ocean-liner.fbx	05 Beach and Boats	1	2796	(4.76, 8.93, 21.28)	0	0	False	0
+Assets/Art/External/Kenney/WatercraftKit/Models/FBX format/ship-ocean-liner-small.fbx	05 Beach and Boats	1	1750	(4.76, 8.93, 15.20)	0	0	False	0
+Assets/Art/External/Kenney/WatercraftKit/Models/FBX format/ship-small.fbx	05 Beach and Boats	6	1723	(4.80, 9.96, 10.60)	0	0	False	0
+Assets/Art/External/Kenney/WatercraftKit/Models/FBX format/ship-small-ghost.fbx	05 Beach and Boats	6	1703	(4.80, 9.96, 10.60)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/Bush_Common.fbx	02 Plants	1	900	(1.91, 1.58, 1.97)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/Bush_Common_Flowers.fbx	02 Plants	1	1368	(1.91, 1.58, 1.97)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/Clover_1.fbx	02 Plants	1	379	(0.80, 1.14, 0.76)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/Clover_2.fbx	02 Plants	1	615	(0.85, 1.26, 0.84)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/CommonTree_1.fbx	01 Trees	1	6265	(4.31, 7.26, 4.58)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/CommonTree_2.fbx	01 Trees	1	5648	(4.46, 7.64, 4.28)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/CommonTree_3.fbx	01 Trees	1	3505	(4.06, 9.43, 4.24)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/CommonTree_4.fbx	01 Trees	1	4066	(3.83, 9.44, 3.76)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/CommonTree_5.fbx	01 Trees	1	3182	(3.67, 7.01, 4.22)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/DeadTree_1.fbx	01 Trees	1	6169	(6.15, 9.50, 5.75)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/DeadTree_2.fbx	01 Trees	1	6557	(6.73, 11.49, 6.38)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/DeadTree_3.fbx	01 Trees	1	5802	(6.39, 13.28, 6.43)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/DeadTree_4.fbx	01 Trees	1	5702	(7.96, 12.77, 7.73)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/DeadTree_5.fbx	01 Trees	1	5648	(8.36, 16.44, 8.41)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/Fern_1.fbx	02 Plants	1	288	(9.05, 2.69, 8.49)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/Flower_3_Group.fbx	02 Plants	1	755	(1.49, 2.05, 1.59)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/Flower_3_Single.fbx	02 Plants	1	285	(0.91, 2.07, 0.88)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/Flower_4_Group.fbx	02 Plants	1	1690	(1.78, 2.49, 1.37)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/Flower_4_Single.fbx	02 Plants	1	642	(1.07, 2.42, 0.77)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/Grass_Common_Short.fbx	02 Plants	1	155	(0.64, 1.33, 0.74)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/Grass_Common_Tall.fbx	02 Plants	1	326	(0.90, 1.87, 0.99)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/Grass_Wispy_Short.fbx	02 Plants	1	494	(1.32, 1.07, 1.21)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/Grass_Wispy_Tall.fbx	02 Plants	1	622	(1.54, 1.67, 1.59)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/Mushroom_Common.fbx	02 Plants	1	880	(0.56, 0.46, 0.78)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/Mushroom_Laetiporus.fbx	02 Plants	1	3216	(1.37, 0.77, 1.10)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/Pebble_Round_1.fbx	02 Plants	1	136	(0.50, 0.10, 0.37)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/Pebble_Round_2.fbx	02 Plants	1	114	(0.45, 0.09, 0.41)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/Pebble_Round_3.fbx	02 Plants	1	128	(0.45, 0.10, 0.48)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/Pebble_Round_4.fbx	02 Plants	1	126	(0.41, 0.10, 0.45)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/Pebble_Round_5.fbx	02 Plants	1	124	(0.42, 0.10, 0.35)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/Pebble_Square_1.fbx	02 Plants	1	104	(0.43, 0.13, 0.44)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/Pebble_Square_2.fbx	02 Plants	1	78	(0.39, 0.14, 0.28)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/Pebble_Square_3.fbx	02 Plants	1	52	(0.37, 0.16, 0.32)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/Pebble_Square_4.fbx	02 Plants	1	48	(0.34, 0.17, 0.29)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/Pebble_Square_5.fbx	02 Plants	1	72	(0.35, 0.15, 0.45)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/Pebble_Square_6.fbx	02 Plants	1	65	(0.46, 0.14, 0.26)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/Petal_1.fbx	02 Plants	1	13	(0.46, 0.24, 0.45)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/Petal_2.fbx	02 Plants	1	15	(0.67, 0.24, 0.63)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/Petal_3.fbx	02 Plants	1	15	(0.62, 0.19, 0.61)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/Petal_4.fbx	02 Plants	1	30	(0.33, 0.25, 0.24)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/Petal_5.fbx	02 Plants	1	15	(0.83, 0.29, 0.80)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/Pine_1.fbx	02 Plants	1	3947	(4.94, 7.32, 4.54)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/Pine_2.fbx	02 Plants	1	3648	(5.73, 7.38, 5.22)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/Pine_3.fbx	02 Plants	1	4964	(3.61, 7.39, 4.00)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/Pine_4.fbx	02 Plants	1	3370	(5.80, 10.24, 5.37)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/Pine_5.fbx	02 Plants	1	1646	(6.42, 8.72, 6.22)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/Plant_1.fbx	02 Plants	1	120	(1.27, 1.01, 1.39)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/Plant_1_Big.fbx	02 Plants	1	360	(2.89, 3.76, 3.13)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/Plant_7.fbx	02 Plants	1	48	(1.05, 0.25, 0.96)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/Plant_7_Big.fbx	02 Plants	1	112	(1.31, 0.25, 1.36)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/Rock_Medium_1.fbx	03 Rocks	1	342	(3.23, 2.26, 2.99)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/Rock_Medium_2.fbx	03 Rocks	1	244	(3.05, 1.90, 2.48)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/Rock_Medium_3.fbx	03 Rocks	1	522	(3.42, 2.32, 3.48)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/RockPath_Round_Small_1.fbx	03 Rocks	1	998	(1.06, 0.11, 1.48)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/RockPath_Round_Small_2.fbx	03 Rocks	1	1126	(1.14, 0.10, 1.35)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/RockPath_Round_Small_3.fbx	03 Rocks	1	1002	(1.18, 0.11, 1.29)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/RockPath_Round_Thin.fbx	03 Rocks	1	2254	(1.46, 0.11, 2.09)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/RockPath_Round_Wide.fbx	03 Rocks	1	3500	(2.11, 0.11, 2.13)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/RockPath_Square_Small_1.fbx	03 Rocks	1	783	(1.02, 0.15, 0.97)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/RockPath_Square_Small_2.fbx	03 Rocks	1	559	(0.99, 0.15, 0.97)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/RockPath_Square_Small_3.fbx	03 Rocks	1	568	(0.84, 0.17, 1.08)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/RockPath_Square_Thin.fbx	03 Rocks	1	1793	(1.56, 0.18, 1.99)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/RockPath_Square_Wide.fbx	03 Rocks	1	2256	(2.05, 0.18, 1.99)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/TwistedTree_1.fbx	01 Trees	1	9564	(13.52, 16.73, 11.55)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/TwistedTree_2.fbx	01 Trees	1	9134	(10.56, 18.95, 9.20)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/TwistedTree_3.fbx	01 Trees	1	10089	(11.36, 16.07, 11.51)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/TwistedTree_4.fbx	01 Trees	1	9600	(10.38, 18.74, 11.29)	0	0	False	0
+Assets/Art/External/Quaternius/StylizedNatureMegaKit/FBX (Unity)/TwistedTree_5.fbx	01 Trees	1	10104	(9.49, 15.66, 9.39)	0	0	False	0
+Assets/Art/External/Quaternius/UltimateModularRuins/FBX/Arch_Gothic.fbx	04 Ruins	1	2896	(3.09, 0.49, 3.76)	0	3	False	0
+Assets/Art/External/Quaternius/UltimateModularRuins/FBX/Arch_Gothic_RoundColumn.fbx	04 Ruins	1	3216	(3.09, 0.49, 3.76)	0	3	False	0
+Assets/Art/External/Quaternius/UltimateModularRuins/FBX/Arch_Round.fbx	04 Ruins	1	2948	(3.09, 0.49, 3.53)	0	3	False	0
+Assets/Art/External/Quaternius/UltimateModularRuins/FBX/Arch_Round_RoundColumn.fbx	04 Ruins	1	3268	(3.09, 0.49, 3.53)	0	2	False	0
+Assets/Art/External/Quaternius/UltimateModularRuins/FBX/Barrel.fbx	04 Ruins	1	1312	(0.83, 0.82, 1.07)	0	3	False	0
+Assets/Art/External/Quaternius/UltimateModularRuins/FBX/BearTrap_Closed.fbx	04 Ruins	1	608	(1.13, 1.42, 0.68)	0	1	False	0
+Assets/Art/External/Quaternius/UltimateModularRuins/FBX/BearTrap_Open.fbx	04 Ruins	1	608	(1.20, 1.42, 0.27)	0	1	False	0
+Assets/Art/External/Quaternius/UltimateModularRuins/FBX/Bookcase_Empty.fbx	04 Ruins	1	1260	(2.08, 0.66, 2.65)	0	2	False	0
+Assets/Art/External/Quaternius/UltimateModularRuins/FBX/Bookcase_Full.fbx	04 Ruins	1	3360	(2.08, 0.66, 2.65)	0	7	False	0
+Assets/Art/External/Quaternius/UltimateModularRuins/FBX/Brick.fbx	04 Ruins	1	76	(0.53, 0.32, 0.28)	0	2	False	0
+Assets/Art/External/Quaternius/UltimateModularRuins/FBX/Bricks.fbx	04 Ruins	1	312	(1.82, 0.55, 1.61)	0	2	False	0
+Assets/Art/External/Quaternius/UltimateModularRuins/FBX/BridgeSection.fbx	04 Ruins	1	1888	(2.58, 2.23, 0.44)	0	2	False	0
+Assets/Art/External/Quaternius/UltimateModularRuins/FBX/Bush_1x1.fbx	04 Ruins	1	516	(1.12, 1.19, 1.20)	0	1	False	0
+Assets/Art/External/Quaternius/UltimateModularRuins/FBX/Bush_2x1.fbx	04 Ruins	1	652	(1.19, 1.19, 1.63)	0	1	False	0
+Assets/Art/External/Quaternius/UltimateModularRuins/FBX/Bush_2x2.fbx	04 Ruins	1	956	(1.80, 1.19, 1.63)	0	1	False	0
+Assets/Art/External/Quaternius/UltimateModularRuins/FBX/Bush_Large.fbx	04 Ruins	1	360	(2.07, 2.07, 1.19)	0	1	False	0
+Assets/Art/External/Quaternius/UltimateModularRuins/FBX/Bush_Round.fbx	04 Ruins	1	312	(1.25, 1.25, 0.71)	0	1	False	0
+Assets/Art/External/Quaternius/UltimateModularRuins/FBX/Candles_1.fbx	04 Ruins	1	844	(0.88, 0.84, 0.61)	0	3	False	0
+Assets/Art/External/Quaternius/UltimateModularRuins/FBX/Candles_2.fbx	04 Ruins	1	1224	(0.99, 0.99, 0.65)	0	3	False	0
+Assets/Art/External/Quaternius/UltimateModularRuins/FBX/Cart.fbx	04 Ruins	1	1432	(1.97, 3.07, 1.96)	0	3	False	0
+Assets/Art/External/Quaternius/UltimateModularRuins/FBX/Character_Animated.fbx	04 Ruins	3	6050	(1.44, 3.02, 1.87)	0	11	False	24
+Assets/Art/External/Quaternius/UltimateModularRuins/FBX/Chest.fbx	04 Ruins	2	1676	(1.18, 0.91, 0.83)	0	5	False	0
+Assets/Art/External/Quaternius/UltimateModularRuins/FBX/Chest_Gold.fbx	04 Ruins	2	22512	(1.18, 0.91, 0.82)	0	6	False	0
+Assets/Art/External/Quaternius/UltimateModularRuins/FBX/Column_BridgeSupport.fbx	04 Ruins	1	1238	(0.78, 0.62, 4.02)	0	2	False	0
+Assets/Art/External/Quaternius/UltimateModularRuins/FBX/Column_Round.fbx	04 Ruins	1	1010	(0.66, 0.66, 3.99)	0	1	False	0
+Assets/Art/External/Quaternius/UltimateModularRuins/FBX/Column_Round_Short.fbx	04 Ruins	1	634	(0.49, 0.49, 1.83)	0	1	False	0
+Assets/Art/External/Quaternius/UltimateModularRuins/FBX/Column_Square.fbx	04 Ruins	1	690	(0.66, 0.66, 3.99)	0	2	False	0
+Assets/Art/External/Quaternius/UltimateModularRuins/FBX/Crate.fbx	04 Ruins	1	784	(0.82, 0.82, 0.82)	0	2	False	0
+Assets/Art/External/Quaternius/UltimateModularRuins/FBX/Curve_1.fbx	04 Ruins	1	2302	(2.27, 2.07, 2.00)	0	2	False	0
+Assets/Art/External/Quaternius/UltimateModularRuins/FBX/Curve_1_Overgrown.fbx	04 Ruins	1	2444	(2.30, 2.07, 2.00)	0	4	False	0
+Assets/Art/External/Quaternius/UltimateModularRuins/FBX/Curve_2.fbx	04 Ruins	1	2302	(2.27, 2.07, 2.00)	0	2	False	0
+Assets/Art/External/Quaternius/UltimateModularRuins/FBX/Curve_2_Overgrown.fbx	04 Ruins	1	2444	(2.30, 2.07, 2.00)	0	4	False	0
+Assets/Art/External/Quaternius/UltimateModularRuins/FBX/DeadTree_1.fbx	04 Ruins	1	444	(1.22, 0.76, 2.59)	0	1	False	0
+Assets/Art/External/Quaternius/UltimateModularRuins/FBX/DeadTree_2.fbx	04 Ruins	1	516	(1.45, 0.24, 2.62)	0	1	False	0
+Assets/Art/External/Quaternius/UltimateModularRuins/FBX/DeadTree_3.fbx	04 Ruins	1	1392	(2.25, 2.26, 2.81)	0	1	False	0
+Assets/Art/External/Quaternius/UltimateModularRuins/FBX/Doors_GothicArch.fbx	04 Ruins	2	2184	(2.31, 3.21, 0.27)	0	8	False	0
+Assets/Art/External/Quaternius/UltimateModularRuins/FBX/Doors_GothicArch_Covered.fbx	04 Ruins	1	2096	(2.52, 0.28, 3.21)	0	4	False	0
+Assets/Art/External/Quaternius/UltimateModularRuins/FBX/Doors_RoundArch.fbx	04 Ruins	2	2184	(2.31, 2.97, 0.27)	0	8	False	0
+Assets/Art/External/Quaternius/UltimateModularRuins/FBX/Doors_RoundArch_Covered.fbx	04 Ruins	1	2096	(2.52, 0.28, 2.97)	0	4	False	0
+Assets/Art/External/Quaternius/UltimateModularRuins/FBX/Flag_GothicArch.fbx	04 Ruins	1	144	(2.19, 0.32, 1.22)	0	1	False	0
+Assets/Art/External/Quaternius/UltimateModularRuins/FBX/Flag_RoundArch.fbx	04 Ruins	1	132	(2.17, 0.32, 1.13)	0	1	False	0
+Assets/Art/External/Quaternius/UltimateModularRuins/FBX/Flag_Wall.fbx	04 Ruins	1	204	(0.92, 0.32, 2.02)	0	1	False	0
+Assets/Art/External/Quaternius/UltimateModularRuins/FBX/Flag_Wall2.fbx	04 Ruins	1	368	(1.13, 0.32, 2.35)	0	3	False	0
+Assets/Art/External/Quaternius/UltimateModularRuins/FBX/Floor_Diamond.fbx	04 Ruins	1	385	(2.00, 2.00, 0.12)	0	2	False	0
+Assets/Art/External/Quaternius/UltimateModularRuins/FBX/Floor_Hole_Corner.fbx	04 Ruins	1	312	(1.99, 2.00, 0.14)	0	2	False	0
+Assets/Art/External/Quaternius/UltimateModularRuins/FBX/Floor_Hole_Straight.fbx	04 Ruins	1	218	(2.00, 1.10, 0.14)	0	2	False	0
+Assets/Art/External/Quaternius/UltimateModularRuins/FBX/Floor_SquareLarge.fbx	04 Ruins	1	112	(1.98, 1.98, 0.11)	0	1	False	0
+Assets/Art/External/Quaternius/UltimateModularRuins/FBX/Floor_Squares.fbx	04 Ruins	1	392	(1.99, 2.00, 0.12)	0	2	False	0
+Assets/Art/External/Quaternius/UltimateModularRuins/FBX/Floor_Standard.fbx	04 Ruins	1	1304	(1.99, 1.98, 0.29)	0	2	False	0
+Assets/Art/External/Quaternius/UltimateModularRuins/FBX/Floor_Standard_Half.fbx	04 Ruins	1	821	(2.00, 2.00, 0.12)	0	2	False	0
+Assets/Art/External/Quaternius/UniversalAnimationLibrary/UAL1_Standard.fbx	08 Animation	1	13744	(1.95, 1.94, 0.46)	0	2	True	43
+Assets/Art/External/Quaternius/UniversalAnimationLibrary/UAL1_Standard_RM.fbx	08 Animation	1	13744	(1.95, 1.94, 0.46)	0	2	True	43
+Assets/Art/External/Quaternius/UniversalBaseCharacters/Universal Base Characters[Standard]/Base Characters/Unity/Superhero_Female_FullBody.fbx	07 Characters	3	15060	(1.67, 1.85, 0.44)	0	0	True	0
+Assets/Art/External/Quaternius/UniversalBaseCharacters/Universal Base Characters[Standard]/Base Characters/Unity/Superhero_Male_FullBody.fbx	07 Characters	3	14318	(1.86, 1.92, 0.44)	0	0	True	0
+Assets/Art/External/Quaternius/UniversalBaseCharacters/Universal Base Characters[Standard]/Hairstyles/Origin at 0/FBX (Unity)/Eyebrows_Female.fbx	07 Characters	1	1480	(0.13, 0.04, 0.04)	0	1	False	0
+Assets/Art/External/Quaternius/UniversalBaseCharacters/Universal Base Characters[Standard]/Hairstyles/Origin at 0/FBX (Unity)/Eyebrows_Regular.fbx	07 Characters	1	984	(0.12, 0.03, 0.04)	0	1	False	0
+Assets/Art/External/Quaternius/UniversalBaseCharacters/Universal Base Characters[Standard]/Hairstyles/Origin at 0/FBX (Unity)/Hair_Beard.fbx	07 Characters	1	1034	(0.16, 0.14, 0.10)	0	1	False	0
+Assets/Art/External/Quaternius/UniversalBaseCharacters/Universal Base Characters[Standard]/Hairstyles/Origin at 0/FBX (Unity)/Hair_Buns.fbx	07 Characters	1	3284	(0.30, 0.24, 0.25)	0	1	False	0
+Assets/Art/External/Quaternius/UniversalBaseCharacters/Universal Base Characters[Standard]/Hairstyles/Origin at 0/FBX (Unity)/Hair_Buzzed.fbx	07 Characters	1	830	(0.15, 0.17, 0.19)	0	1	False	0
+Assets/Art/External/Quaternius/UniversalBaseCharacters/Universal Base Characters[Standard]/Hairstyles/Origin at 0/FBX (Unity)/Hair_BuzzedFemale.fbx	07 Characters	1	830	(0.16, 0.20, 0.17)	0	1	False	0
+Assets/Art/External/Quaternius/UniversalBaseCharacters/Universal Base Characters[Standard]/Hairstyles/Origin at 0/FBX (Unity)/Hair_Long.fbx	07 Characters	1	2906	(0.24, 0.28, 0.27)	0	1	False	0
+Assets/Art/External/Quaternius/UniversalBaseCharacters/Universal Base Characters[Standard]/Hairstyles/Origin at 0/FBX (Unity)/Hair_SimpleParted.fbx	07 Characters	1	1301	(0.18, 0.18, 0.19)	0	1	False	0

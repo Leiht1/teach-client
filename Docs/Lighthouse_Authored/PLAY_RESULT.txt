@@ -1,0 +1,5 @@
+PASS
+Reached lighthouse courtyard
+Actual CharacterController.Move in Unity Play Mode; no teleport between waypoints.
+Time: 28.7999
+Position: (-1.84, 13.16, 22.02)

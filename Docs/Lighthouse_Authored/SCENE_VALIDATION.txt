@@ -1,0 +1,5 @@
+PASS
+Mesh objects: 632
+Static mesh triangles: 196056
+Colliders: 140
+Scene dependencies: 624

@@ -1,0 +1,65 @@
+[
+  {
+    "archive": "ArtSource\\Archives\\DungeonRemastered-Free.zip",
+    "bytes": 32868755,
+    "sha256": "6acb859d1aefae074f937d1e6f13656a7312b2bdb6d9f1232ebdade8d93d6a1c",
+    "crc_ok": true,
+    "note": "原始压缩包"
+  },
+  {
+    "archive": "ArtSource\\Archives\\ForestNature-Free.zip",
+    "bytes": 6435630,
+    "sha256": "2ee83e63bb7695f2d884ec27ddf6fce020789a452e7d5c5b0bbdfc4f6ea1fc8c",
+    "crc_ok": true,
+    "note": "原始压缩包"
+  },
+  {
+    "archive": "ArtSource\\Archives\\kenney_pirate-kit.zip",
+    "bytes": 3154665,
+    "sha256": "667ed2caf92954ddb98f7b7cede831fe99ab75063c26b25e23d32715bee9c943",
+    "crc_ok": true,
+    "note": "原始压缩包"
+  },
+  {
+    "archive": "ArtSource\\Archives\\kenney_watercraft-pack.zip",
+    "bytes": 1870991,
+    "sha256": "cd1470c1cf441c7f46d0944ae6d0d897242365dc97677c5079b3238965d659f3",
+    "crc_ok": true,
+    "note": "原始压缩包"
+  },
+  {
+    "archive": "ArtSource\\Archives\\ResourceBits-Free.zip",
+    "bytes": 8520574,
+    "sha256": "7056f1310896a4612a67703fd6d5af389fcccdeb46df0a89e2322aa8e3bcfcf7",
+    "crc_ok": true,
+    "note": "原始压缩包"
+  },
+  {
+    "archive": "ArtSource\\Archives\\Stylized Nature MegaKit[Standard].zip",
+    "bytes": 104088529,
+    "sha256": "298f6732b872e4cf7b30e6e7abf9641c7f6dc6b326df37ac089533ed7e3d58c9",
+    "crc_ok": true,
+    "note": "原始压缩包"
+  },
+  {
+    "archive": "ArtSource\\Archives\\UltimateModularRuins-official-files.zip",
+    "bytes": 3328169,
+    "sha256": "ae90c6584228047ae4ce478859dadbefa42354ed7aa22302244706bd389435d8",
+    "crc_ok": true,
+    "note": "本地将官方逐文件下载封装，非官方原始压缩包"
+  },
+  {
+    "archive": "ArtSource\\Archives\\Universal Base Characters[Standard].zip",
+    "bytes": 128968391,
+    "sha256": "fdbf1804c90dfc1ea03e992bff7da2dfd1a79318e13270a660180f9308455f40",
+    "crc_ok": true,
+    "note": "原始压缩包"
+  },
+  {
+    "archive": "ArtSource\\Archives\\UniversalAnimationLibrary-local-copy.zip",
+    "bytes": 15909270,
+    "sha256": "4246fb562369974727cb370efc786986b33a1186cfac2dd597b56778a0d66827",
+    "crc_ok": true,
+    "note": "本地将复用的第一代动画文件封装，非重新下载"
+  }
+]

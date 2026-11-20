@@ -1,0 +1,21 @@
+from pathlib import Path
+p=Path('Assets/Lighthouse_Authored/Painted.shader')
+s=p.read_text(encoding='utf-8-sig')
+s=s.replace('o.Albedo=col*_Color.rgb*(1+macro);','if(_Kind>.5&&_Kind<1.5) col=lerp(col,float3(.28,.47,.085),.48);else if(_Kind<.5||_Kind>3.5)col=lerp(col,float3(.78,.61,.36),.35);else if(_Kind<2.5)col=lerp(col,float3(.53,.52,.56),.20);o.Albedo=col*_Color.rgb*(1+macro);')
+p.write_text(s,encoding='utf-8')
+p=Path('Assets/Editor/CoastAuthored.cs');s=p.read_text(encoding='utf-8-sig')
+s=s.replace('i==6||i==7?"palm-detailed-bend.fbx":i%2==0?"Tree_1_C_Color1.fbx":"Tree_1_B_Color1.fbx"','i%2==0?"CommonTree_1.fbx":"CommonTree_2.fbx"').replace('i<trees.Length;i++','i<6;i++')
+s=s.replace('sun.intensity=1.1f','sun.intensity=1.18f').replace('new Color(.52f,.57f,.58f)','new Color(.40f,.47f,.51f)')
+p.write_text(s,encoding='utf-8')
+p=Path('Assets/Editor/CoastPolish.cs');s=p.read_text(encoding='utf-8-sig')
+s=s.replace('RenderSettings.skybox=stored;', 'stored.shader=Shader.Find("Coast/DaySky");RenderSettings.skybox=stored;var skyCamera=Camera.main.GetComponent<Skybox>();if(!skyCamera)skyCamera=Camera.main.gameObject.AddComponent<Skybox>();skyCamera.material=stored;')
+s=s.replace('if(crown)crown.transform.SetParent(group.transform,true);','if(crown)crown.transform.SetParent(group.transform,true);var fringe=all.FirstOrDefault(q=>q.name==r.name+" grass fringe");if(fringe)fringe.transform.SetParent(group.transform,true);')
+s=s.replace('f.name.Contains("Flower")','f.name.Contains("grass fringe")||f.name.Contains("Flower")')
+p.write_text(s,encoding='utf-8')
+# Synchronize foam to the rounded DCC contour.
+import json
+shore=json.loads(Path('ArtSource/Lighthouse_Authored/shore.json').read_text())
+p=Path('Assets/Lighthouse_Authored/Water.shader');s=p.read_text(encoding='utf-8-sig');a=s.index('float d=min(');b=s.index('float ripple=',a)
+expr='float d=10000;'+''.join('d=min(d,sd(p,float2(%.4f,%.4f),float2(%.4f,%.4f)));'%(*v,*shore[(i+1)%len(shore)]) for i,v in enumerate(shore))
+s=s[:a]+expr+s[b:];s=s.replace('o.Smoothness=.40','o.Smoothness=.23')
+p.write_text(s,encoding='utf-8')

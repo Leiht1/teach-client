@@ -1,0 +1,4 @@
+model	clip	avatar_valid	human	duration_seconds
+Assets/Art/External/Quaternius/UniversalBaseCharacters/Universal Base Characters[Standard]/Base Characters/Unity/Superhero_Male_FullBody.fbx	Armature|Idle_Loop	True	True	2.5
+Assets/Art/External/Quaternius/UniversalBaseCharacters/Universal Base Characters[Standard]/Base Characters/Unity/Superhero_Male_FullBody.fbx	Armature|Walk_Loop	True	True	1.333333
+Assets/Art/External/Quaternius/UniversalBaseCharacters/Universal Base Characters[Standard]/Base Characters/Unity/Superhero_Male_FullBody.fbx	Armature|Sprint_Loop	True	True	0.6666667

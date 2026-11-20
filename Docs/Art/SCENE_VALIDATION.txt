@@ -1,0 +1,5 @@
+Ground path raycasts: 151/151
+Maximum height difference per 0.48 m sample: 0.04063904 m
+Models: 640
+Pipeline: Built-in
+Unity: 6000.6.9f1
