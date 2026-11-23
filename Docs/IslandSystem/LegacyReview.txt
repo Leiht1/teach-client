@@ -1,0 +1,43 @@
+PASS: Tab opens and blocks existing character input
+PASS: Free mode starts empty
+PASS: Tab closes and restores input state
+PASS: HUD system button opens workbench
+PASS: Drag entry from library
+PASS: Snap repeat after entry
+PASS: Nest wait inside repeat
+PASS: Nest conditional inside repeat
+PASS: Snap hexagonal sensor into condition interface
+PASS: Nest action inside conditional
+PASS: Nested program validates
+PASS: Incompatible reporter-to-statement connection is refused
+PASS: Edit focused numeric field with virtual keyboard events
+PASS: Edit simulated boolean option
+PASS: Guided mode preserves graph and parameters
+PASS: Guided task reveals hints without assembling blocks
+PASS: Free mode restores full workspace
+PASS: Right-click duplicate
+PASS: Undo duplicate
+PASS: Redo duplicate
+PASS: Delete preserves following connected blocks
+PASS: Context explanation uses block definition
+PASS: Context delete retains following instructions
+PASS: Move and insert existing block between instructions
+PASS: Pan blank workspace
+PASS: Zoom workspace
+PASS: F5 produces editor-only execution trace
+PASS: Versioned nested draft roundtrip and real disk save
+PASS: Actual load path restores draft from isolated disk file
+PASS: Close and reopen preserves draft
+PASS: Loop limit error identifies offending block
+PASS: Missing event is detected
+PASS: Empty control is detected
+PASS: Disconnected stack is detected
+PASS: Invalid comparison parameter is detected
+PASS: Integer-valued decimal repeat parameter previews correctly
+PASS: Large nested preview stops at safety budget
+PASS: Unsupported save version rejected
+PASS: Save failure is reported truthfully
+PASS: Corrupt draft is reported and preserved without edits
+PASS: World time scale unchanged
+PASS: Final close restores original control state
+All input was internal virtual UI events in batch mode. No desktop control or mouse capture. Screenshots are offscreen Play Mode renders.

@@ -1,0 +1,9 @@
+PASS Official Scratch loaded in actual hidden Unity player
+PASS Centered visible child at client=1280x720 panel=80,50 1120x620
+PASS Centered visible child at client=960x540 panel=60,37 840x465
+PASS Centered visible child at client=1600x900 panel=100,62 1400x775
+PASS Captured embedded WebView content directly, no desktop screenshot
+PASS Close waits for native hide acknowledgement and restores Unity keyboard focus
+PASS Original walker enabled states and background setting restored after close
+PASS Reopen then browser RPC close restores native keyboard focus and original input states
+PASS World timeScale unchanged; desktop foreground untouched; no OS key/mouse simulation

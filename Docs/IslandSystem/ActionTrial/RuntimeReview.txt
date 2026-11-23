@@ -1,0 +1,20 @@
+PASS Existing lighthouse scene motor grounded
+PASS Humanoid avatar and action animation retarget valid
+PASS Official Scratch browser → Unity run RPC → real motor: PASS Invalid real action parameters are highlighted and cannot run
+PASS Pending demo commands cannot masquerade as real actions
+PASS Mode switch preserves real action blocks
+PASS Real action IDs, repeat children and parameters survive disk save/reload
+PASS Native Scratch run button executes 3 physical jumps + 3 real chops, restores input
+
+PASS Repeat 3 jump = 3 real airborne and landing cycles
+PASS Repeat 3 chop = 3 contact events
+PASS Tree felled and 3 physical world wood props spawned
+PASS Closing workbench releases motor input
+PASS Turn 90 and move 2m blocks change actual rotation and position
+PASS A/D lateral movement uses camera space, displacement=1.320512
+PASS Shift increases physical travel speed
+PASS Mouse orbit and wheel distance use runtime camera path
+PASS Opening workbench blocks only manual input
+PASS Closing workbench restores input
+PASS World timescale preserved
+PASS Cancel releases program ownership

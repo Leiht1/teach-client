@@ -1,0 +1,20 @@
+Official Scratch workspace initialized offline
+Pointer drag from flyout creates hat block
+Pointer snap connects repeat below entry
+Native C-block pointer nesting
+Dragging middle block carries following stack and nested contents
+Mode preserves native graph, nesting and parameters
+Full native workspace autosave and reload
+Official context duplicate copies entire nested stack
+Native undo and redo
+Pointer hexagonal reporter snaps into condition input
+Pointer opens original editable number field
+Native dropdown edits simulated sensor
+Actual pointer context menu opens block help
+Wheel zoom uses official workspace
+Pointer drag on blank workspace pans viewport
+Native context deletion preserves following connected instruction
+Undo restores deleted block and connection
+960x540 and 1600x900 responsive layouts
+Check bridge receives serialized graph and exact block IDs
+No browser runtime exceptions

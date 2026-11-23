@@ -1,0 +1,12 @@
+PASS Sprint remains in looping Run after 4 seconds; normalizedTime=6.014363
+PASS Leg pose continues changing after multiple sprint cycles; degrees=124.9135
+PASS Jump 1 accepted from ground
+PASS Jump 2 accepted from ground
+PASS Jump 3 accepted from ground
+PASS Jump 4 accepted from ground
+PASS Jump 5 accepted from ground
+PASS Jump 6 accepted from ground
+PASS Six jumps each return to a real CharacterController ground contact
+PASS Jump physically rises above ground; peak=1.192034
+PASS Controller origin never crosses ground; minimum clearance=0.07977122
+PASS Rendered character sole never sinks through ground, including landing blend; minimum clearance=0.05465627

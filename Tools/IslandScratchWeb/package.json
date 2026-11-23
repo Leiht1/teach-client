@@ -1,0 +1,2 @@
+{"name":"island-scratch-workbench","version":"1.0.0","private":true,"scripts":{"build":"node build.mjs","test":"node review.mjs"},"dependencies":{"scratch-blocks":"2.2.13"},"devDependencies":{"esbuild":"0.25.12","playwright":"1.56.1"}}
+

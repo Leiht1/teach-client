@@ -1,0 +1,9 @@
+PASS Real Unity HTTP bridge + headless official Scratch UI
+PASS v1 graph migration including comparison RHS
+PASS v2 atomic disk save and browser reload
+PASS bounded nested execution preview with numeric RHS
+PASS native check highlights exact invalid block
+PASS browser close calls Unity input restore
+PASS Original walker enabled states restored
+PASS World timeScale unchanged
+PASS Original runInBackground restored after native UI closes

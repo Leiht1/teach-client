@@ -1,0 +1,1 @@
+PASS Hidden native WebView2 initialized official Scratch workspace; UTF-8 pipe commands and native CapturePreview succeeded. No window shown, no OS pointer automation.

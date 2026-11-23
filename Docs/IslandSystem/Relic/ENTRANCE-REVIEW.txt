@@ -1,0 +1,4 @@
+PASS Actual native-host JavaScript prepares invisible paused frame before SHOW
+PASS Exactly one animation per entrance, including three repeated opens
+PASS Final opacity restores to 1 after playback
+Headless browser; no desktop input.

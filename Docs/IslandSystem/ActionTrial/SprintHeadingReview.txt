@@ -1,0 +1,6 @@
+Idle pelvis forward yaw=-2.993625
+Walk pelvis forward yaw=6.723246
+Run pelvis forward yaw=0.07132626
+Run heading=90 relative error=0.07132626
+Run heading=180 relative error=0.07132626
+Run heading=270 relative error=0.07661668

@@ -1,0 +1,5 @@
+PASS Invalid real action parameters are highlighted and cannot run
+PASS Pending demo commands cannot masquerade as real actions
+PASS Mode switch preserves real action blocks
+PASS Real action IDs, repeat children and parameters survive disk save/reload
+PASS Native Scratch run button executes 3 physical jumps + 3 real chops, restores input

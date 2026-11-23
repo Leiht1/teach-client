@@ -1,0 +1,6 @@
+{
+  "scratch-blocks": "2.2.13",
+  "blockly": "12.5.1",
+  "@blockly/continuous-toolbox": "7.0.9",
+  "@blockly/field-colour": "6.0.12"
+}

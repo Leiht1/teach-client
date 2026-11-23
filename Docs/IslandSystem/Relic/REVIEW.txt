@@ -1,0 +1,17 @@
+PASS wearable instantiated in lighthouse scene
+PASS attached to left lower arm bone
+PASS idle closed
+PASS device faces lateral outside of left forearm
+PASS world collider hit from visible arm
+PASS click entity opens existing host
+PASS activation animates while input blocked
+PASS petals expand before native panel reveal
+PASS close retracts and restores control
+PASS Tab opens device and panel
+PASS Tab closes and restores input
+PASS rendered HUD icon click accepted
+PASS HUD opens same editor
+PASS rapid close/reopen retains activation
+PASS character moves after closing
+PASS world time and character collider unchanged
+Background Play Mode; offscreen GameView only; no OS input or desktop capture.
