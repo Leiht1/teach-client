@@ -15,10 +15,12 @@ public static class BlockCatalog {
  new BlockDefinition("前方可通行 · 模拟",3,"六边形模拟侦测；点击真/假编辑预览值，不读取真实世界。"),
  new BlockDefinition("数值比较",4,"六边形条件：左侧数值大于右侧数值时为真。只能放入如果条件接口。"),
  new BlockDefinition("采集 · 待接入",5,"荒岛专属占位指令；尚未接入采集能力，不会改动背包或世界。"),
- new BlockDefinition("跳跃",1,"真实起跳，等待落地后才执行下一条指令。"),
+ new BlockDefinition("跳跃",1,"垂直起跳，等待落地后才执行下一条指令。"),
  new BlockDefinition("砍伐",5,"面向1.8米内的练习树挥斧；3次命中砍倒并掉落木材，不修改背包。"),
  new BlockDefinition("向前移动（米）",1,"沿角色朝向移动，可填负数后退；遇障碍停止，不穿墙。"),
- new BlockDefinition("右转（度）",1,"正数向右、负数向左转动角色。")};
+ new BlockDefinition("右转（度）",1,"正数向右、负数向左转动角色。"),
+ new BlockDefinition("向前跳",5,"沿角色朝向跃过低矮障碍，落地后继续。"),
+ new BlockDefinition("移动 2 步",1,"沿当前朝向走两步。")};
 }
 }
 

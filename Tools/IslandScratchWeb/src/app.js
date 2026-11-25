@@ -9,21 +9,25 @@ S.Blocks.island_start={init(){this.jsonInit({message0:'当程序启动',extensio
 S.Blocks.island_step={init(){this.jsonInit({message0:'前进一步 · 演示',extensions:['colours_motion','shape_statement']});this.setTooltip('演示指令，尚未接入真实角色移动。');}};
 S.Blocks.island_clear={init(){this.jsonInit({message0:'模拟前方可通行 %1',args0:[{type:'field_dropdown',name:'VALUE',options:[['真','true'],['假','false']]}],extensions:['colours_sensing','output_boolean']});this.setTooltip('模拟侦测值，不读取真实世界。');}};
 S.Blocks.island_collect={init(){this.jsonInit({message0:'采集 · 待接入',extensions:['shape_statement']});this.setStyle('island');this.setTooltip('荒岛专属占位指令，不会修改背包或世界。');}};
-for(const [type,label,style,help] of [['island_jump','跳跃','motion','真实起跳，落地后继续下一条指令。'],['island_chop','砍伐','island','走近并面向练习树，3次命中砍倒；不修改背包。']])S.Blocks[type]={init(){this.jsonInit({message0:label,extensions:['shape_statement']});this.setStyle(style);this.setTooltip(help);}};
+for(const [type,label,style,help] of [['island_jump','跳跃','motion','垂直起跳，落地后继续下一条指令。'],['island_leap','向前跳','island','沿角色朝向跃过低矮障碍。'],['island_two_steps','移动 2 步','motion','沿当前朝向走两步。'],['island_chop','砍伐','island','走近并面向练习树，3次命中砍倒；不修改背包。']])S.Blocks[type]={init(){this.jsonInit({message0:label,extensions:['shape_statement']});this.setStyle(style);this.setTooltip(help);}};
 for(const [type,label,help] of [['island_move','向前移动 %1 米','沿角色朝向移动 -15 到 15 米；负数后退，遇障碍停止。'],['island_turn','右转 %1 度','正数右转，负数左转；范围 -360 到 360 度。']])S.Blocks[type]={init(){this.jsonInit({message0:label,args0:[{type:'input_value',name:'AMOUNT',check:'Number'}],extensions:['colours_motion','shape_statement']});this.setTooltip(help);}};
 const action=(type,n)=>({kind:'block',type,inputs:{AMOUNT:{shadow:{type:'math_number',fields:{NUM:n}}}}});
 for(const id of ['blockDelete','workspaceDelete'])if(S.ContextMenuRegistry.registry.getItem(id))S.ContextMenuRegistry.registry.unregister(id);
 S.contextMenuItems.registerDeleteBlock(); S.contextMenuItems.registerDuplicateBlock(); S.contextMenuItems.registerCopyShortcut(); S.contextMenuItems.registerCutShortcut();
 S.ContextMenuRegistry.registry.register({id:'islandHelp',scopeType:S.ContextMenuRegistry.ScopeType.BLOCK,weight:20,displayText:'查看说明',preconditionFn:s=>s.block&&!s.block.isInFlyout?'enabled':'hidden',callback:s=>show(s.block.getTooltip()||'Scratch 原生积木。控制凹槽可以放入指令；参数框可编辑。')});
 const shadow=(type,value)=>({kind:'block',type,inputs:type==='control_repeat'?{TIMES:{shadow:{type:'math_whole_number',fields:{NUM:value}}}}:type==='control_wait'?{DURATION:{shadow:{type:'math_positive_number',fields:{NUM:value}}}}:{}});
-const cats=[['事件','event',[{kind:'block',type:'island_start'}]],['动作','motion',[{kind:'block',type:'island_jump'},action('island_move',2),action('island_turn',90),{kind:'block',type:'island_step'}]],['控制','control',[shadow('control_repeat',3),shadow('control_wait',1),{kind:'block',type:'control_if'}]],['侦测','sensing',[{kind:'block',type:'island_clear'}]],['运算','operators',[{kind:'block',type:'operator_gt',inputs:{OPERAND1:{shadow:{type:'text',fields:{TEXT:'3'}}},OPERAND2:{shadow:{type:'text',fields:{TEXT:'5'}}}}}]],['荒岛专属','island',[{kind:'block',type:'island_chop'},{kind:'block',type:'island_collect'}]]];
+const cats=[['事件','event',[{kind:'block',type:'island_start'}]],['动作','motion',[{kind:'block',type:'island_jump'},action('island_move',2),action('island_turn',90),{kind:'block',type:'island_step'}]],['控制','control',[shadow('control_repeat',3),shadow('control_wait',1),{kind:'block',type:'control_if'}]],['侦测','sensing',[{kind:'block',type:'island_clear'}]],['运算','operators',[{kind:'block',type:'operator_gt',inputs:{OPERAND1:{shadow:{type:'text',fields:{TEXT:'3'}}},OPERAND2:{shadow:{type:'text',fields:{TEXT:'5'}}}}}]],['荒岛专属','island',[{kind:'block',type:'island_leap'},{kind:'block',type:'island_chop'},{kind:'block',type:'island_collect'}]]];
 const toolbox={kind:'categoryToolbox',contents:cats.map(([name,key,contents])=>({kind:'category',name,colour:palettes[key][0],contents}))};
 const ws=S.inject($('blocks'),{toolbox,theme,media:new URL('media/',location.href).href,renderer:'scratch_classic',sounds:true,trashcan:false,collapse:false,comments:true,disable:false,maxBlocks:500,scrollbars:true,move:{scrollbars:true,drag:true,wheel:false},zoom:{controls:true,wheel:true,startScale:.8,maxScale:1.8,minScale:.35,scaleSpeed:1.2},grid:{spacing:40,length:1,colour:'#d8cdb8',snap:false}});
-const types=['island_start','island_step','control_repeat','control_wait','control_if','island_clear','operator_gt','island_collect','island_jump','island_chop','island_move','island_turn'];
+const types=['island_start','island_step','control_repeat','control_wait','control_if','island_clear','operator_gt','island_collect','island_jump','island_chop','island_move','island_turn','island_leap','island_two_steps'];
+let lesson=false, freeDraft;
+const lessonToolbox={...toolbox,contents:toolbox.contents.filter(c=>['事件','动作','荒岛专属'].includes(c.name)).map(c=>({...c,contents:c.name==='动作'?[{kind:'block',type:'island_two_steps'}]:c.contents.filter(b=>['island_start','island_leap'].includes(b.type))}))};
 let restoring=true,revision=0,savedRevision=-1,saveTimer,saveChain=Promise.resolve(),mode='free',hint=0,bridgeReady=false;
 const numberValue=(b,input)=>{const n=b.getInputTargetBlock(input);return n?String(n.getFieldValue('NUM')??n.getFieldValue('TEXT')??''):'';};
 function graph(){const nodes=[],errors=[];const roots=[];const seen=new Set();
- function collect(b,detached=false){if(!b||seen.has(b.id))return null;seen.add(b.id);const kind=types.indexOf(b.type);if(kind<0){errors.push({blockId:b.id,message:'数字或文本积木应嵌入参数槽，不能独立执行'});return null;}const p=b.getRelativeToSurfaceXY();const r={id:b.id,kind,value:kind===2?numberValue(b,'TIMES'):kind===3?numberValue(b,'DURATION'):kind===5?b.getFieldValue('VALUE'):kind===6?numberValue(b,'OPERAND1'):(kind===10||kind===11)?numberValue(b,'AMOUNT'):'',right:kind===6?numberValue(b,'OPERAND2'):'5',condition:null,children:[],detached,position:{x:p.x,y:p.y}};nodes.push(r);
+ function collect(b,detached=false){if(!b||seen.has(b.id))return null;seen.add(b.id);const kind=types.indexOf(b.type);if(kind<0){errors.push({blockId:b.id,message:'数字或文本积木应嵌入参数槽，不能独立执行'});return null;}const p=b.getRelativeToSurfaceXY();const r={id:b.id,kind,value:kind===2?numberValue(b,'TIMES'):kind===3?numberValue(b,'DURATION'):kind===5?b.getFieldValue('VALUE'):kind===6?numberValue(b,'OPERAND1'):(kind===10||kind===11)?numberValue(b,'AMOUNT'):'',right:kind===6?numberValue(b,'OPERAND2'):'5',condition:null,children:[],detached,position:{x:p.x,y:p.y}};// Older Scratch flyouts exposed the two-metre block in this lesson.
+  if(lesson&&kind===10&&Number(r.value)===2){r.kind=13;r.value='';}
+  nodes.push(r);
   if(kind===4){const condition=b.getInputTargetBlock('CONDITION');if(condition)r.condition=collect(condition);}
   if(kind===2||kind===4)for(let child=b.getInputTargetBlock('SUBSTACK');child;child=child.getNextBlock()){const id=collect(child);if(id)r.children.push(id);}
   return r.id;
@@ -35,9 +39,45 @@ function graph(){const nodes=[],errors=[];const roots=[];const seen=new Set();
 function state(){return {schema:2,editor:'scratch-blocks',editorVersion:'2.2.13',blocks:S.serialization.workspaces.save(ws),viewport:{scale:ws.scale,x:ws.scrollX,y:ws.scrollY},mode,hint};}
 function show(text,errors=[]){$('report').replaceChildren();$('report').classList.toggle('error',errors.length>0);if(errors.length){for(const issue of errors){const b=document.createElement('button');b.textContent='⚠ '+issue.message;b.onclick=()=>{const target=ws.getBlockById(issue.blockId);if(target){ws.centerOnBlock(target.id);target.select();S.getFocusManager().focusNode(target);}};$('report').append(b);}const first=errors.find(x=>ws.getBlockById(x.blockId));if(first){ws.centerOnBlock(first.blockId);const selected=ws.getBlockById(first.blockId);selected.select();S.getFocusManager().focusNode(selected);}}else $('report').textContent=text;}
 async function rpc(type,extra={}){const g=graph();const response=await fetch(new URL('rpc',location.href),{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({type,name:$('name').value,workspace:JSON.stringify(state()),graph:JSON.stringify(g.graph),adapterErrors:g.errors,...extra})});if(!response.ok)throw new Error('连接游戏失败 ('+response.status+')');const result=await response.json();if(!result.ok)throw new Error(result.message||'操作失败');return result;}
-function update(){const n=ws.getAllBlocks(false).filter(b=>!b.isShadow()).length;$('count').textContent=n+' 个积木';const data=graph().graph;const entry=data.nodes.some(n=>n.kind===0&&!n.detached);const repeat=data.nodes.some(n=>n.kind===2&&n.children.some(id=>data.nodes.find(x=>x.id===id)?.kind===8));$('progress').textContent=(entry?'✓':'○')+' 启动入口\n'+(repeat?'✓':'○')+' 重复内部包含跳跃';$('progress').style.whiteSpace='pre-line';}
-function dirty(){if(restoring)return;revision++;$('save').textContent='正在自动保存…';clearTimeout(saveTimer);saveTimer=setTimeout(()=>flush(),400);update();}
-function flush(){clearTimeout(saveTimer);const at=revision;saveChain=saveChain.catch(()=>{}).then(async()=>{try{const result=await rpc('save');savedRevision=at;$('save').textContent=result.message||'已自动保存';}catch(e){$('save').textContent='保存失败：'+e.message;throw e;}});saveChain.catch(()=>{});return saveChain;}
+function update(){const n=ws.getAllBlocks(false).filter(b=>!b.isShadow()).length;$('count').textContent=n+' 个积木';const data=graph().graph;if(lesson){updateLesson(data);return;}const entry=data.nodes.some(n=>n.kind===0&&!n.detached);const repeat=data.nodes.some(n=>n.kind===2&&n.children.some(id=>data.nodes.find(x=>x.id===id)?.kind===8));$('progress').textContent=(entry?'✓':'○')+' 启动入口\n'+(repeat?'✓':'○')+' 重复内部包含跳跃';$('progress').style.whiteSpace='pre-line';}
+function updateLesson(data){
+ const byId=new Map(data.nodes.map(node=>[node.id,node]));
+ const chain=data.roots.map(id=>byId.get(id));
+ const connected=(index,kind)=>chain[index]?.kind===kind&&!chain[index].detached;
+ const sequence=[0,13,12,13];
+ let step=0;
+ while(step<sequence.length&&connected(step,sequence[step])) step++;
+ const complete=step===4&&chain.length===4;
+ const instructions=['从「事件」拖出「当程序启动」。','接上「移动 2 步」，走到断梁边。','接上「向前跳」，跨过断梁。','再接一个「移动 2 步」，走到补给箱旁。',complete?'点击「运行角色动作」。':'移除多余的积木，保留这条程序。'];
+ $('progress').textContent='第 '+(step+1)+' 步 · '+instructions[step];
+ $('run').disabled=!complete;
+}
+function configureLesson(active){
+ lesson=active;
+ $('task').classList.toggle('first-lesson',active);
+ $('lesson-title').textContent=active?'越过沉船断梁':'动作教学：连续跳跃';
+ $('lesson-description').textContent=active?'补给箱被船板围住了。让角色从断梁前走过去。':'目标：让角色真实跳跃3次。';
+ for(const id of ['hint','hints','recommended','lesson-footnote'])$(id).hidden=active;
+ $('free').disabled=active;
+ $('guide').disabled=active;
+ $('run').disabled=false;
+ ws.updateToolbox(active?lessonToolbox:toolbox);
+ ws.getToolbox()?.forceRerender?.();
+ if(active){
+  freeDraft={state:state(),name:$('name').value};
+  restore({blocks:{},mode:'guide'});
+  $('name').value='越过断梁';
+  $('save').textContent='序章教学';
+ }else if(freeDraft){
+  $('name').value=freeDraft.name;
+  restore(freeDraft.state);
+  freeDraft=null;
+  $('save').textContent='自由编程草稿';
+ }
+ update();
+}
+function dirty(){if(restoring)return;if(lesson){update();return;}revision++;$('save').textContent='正在自动保存…';clearTimeout(saveTimer);saveTimer=setTimeout(()=>flush(),400);update();}
+function flush(){if(lesson)return Promise.resolve();clearTimeout(saveTimer);const at=revision;saveChain=saveChain.catch(()=>{}).then(async()=>{try{const result=await rpc('save');savedRevision=at;$('save').textContent=result.message||'已自动保存';}catch(e){$('save').textContent='保存失败：'+e.message;throw e;}});saveChain.catch(()=>{});return saveChain;}
 async function run(){try{await flush();const result=await rpc('run');show(result.report,result.issues||[]);}catch(e){show('运行失败：'+e.message);}}
 async function check(preview=false){try{await flush();const result=await rpc(preview?'preview':'check');show(result.report,result.issues||[]);}catch(e){show('检查失败：'+e.message);}}
 function resize(){S.svgResize(ws);}
@@ -55,7 +95,7 @@ async function close(){try{await flush();await rpc('close');}catch(e){show('关�
 $('close').onclick=close;
 document.addEventListener('keydown',e=>{if(e.key==='Tab'||e.key==='Escape'){e.preventDefault();e.stopPropagation();close();}else if(e.key==='F5'){e.preventDefault();e.stopPropagation();check(true);}else if((e.ctrlKey||e.metaKey)&&e.key.toLowerCase()==='y'&&!(e.target instanceof HTMLInputElement)){e.preventDefault();ws.undo(true);}},true);
 new ResizeObserver(resize).observe($('blocks'));
-async function init(){try{const response=await fetch(new URL('init',location.href));if(!response.ok)throw new Error('游戏连接不可用');const data=await response.json();if(!data.ok)throw new Error(data.message);$('name').value=data.name||'我的荒岛程序';if(data.workspace)restore(JSON.parse(data.workspace));else if(data.graph)migrate(JSON.parse(data.graph));restoring=false;update();savedRevision=revision;$('save').textContent=data.message||'新程序 · 编辑后自动保存';bridgeReady=true;await rpc('ready');if(new URLSearchParams(location.search).has('nativeSmoke'))await rpc('check');}catch(e){restoring=false;$('save').textContent='恢复失败：'+e.message;show('草稿恢复失败：'+e.message);}}
+async function init(){try{const response=await fetch(new URL('init',location.href));if(!response.ok)throw new Error('游戏连接不可用');const data=await response.json();if(!data.ok)throw new Error(data.message);$('name').value=data.name||'我的荒岛程序';if(data.workspace)restore(JSON.parse(data.workspace));else if(data.graph)migrate(JSON.parse(data.graph));restoring=false;update();savedRevision=revision;$('save').textContent=data.message||'新程序 · 编辑后自动保存';bridgeReady=true;if(data.lesson)configureLesson(true);await rpc('ready');if(lesson){const watch=setInterval(async()=>{try{if(!(await rpc('status')).lesson){clearInterval(watch);configureLesson(false);}}catch{}},750);}if(new URLSearchParams(location.search).has('nativeSmoke'))await rpc('check');}catch(e){restoring=false;$('save').textContent='恢复失败：'+e.message;show('草稿恢复失败：'+e.message);}}
 // Inspection API only exposes the same official workspace and adapters used by normal interactions.
 window.IslandScratch={run,S,workspace:ws,graph,state,restore,migrate,flush,check,setMode,get ready(){return bridgeReady;}};
 init();
